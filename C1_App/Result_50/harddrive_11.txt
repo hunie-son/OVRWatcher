@@ -1,0 +1,2993 @@
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   525229408.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :           7.493
+Preemptions / second                       :           0.000
+Avg Preemption Delay                       :           0.000
+% Vertex Fetch Stall                       :           0.456
+% Texture Fetch Stall                      :           0.430
+% Texture L1 Miss                          :          27.874
+% Texture L2 Miss                          :          16.368
+% Stalled on System Memory                 :           0.000
+Read Total (Bytes/sec)                     :  1370882816.000
+Write Total (Bytes/sec)                    :  1147937024.000
+Texture Memory Read BW (Bytes/Second)      :   280818240.000
+Vertex Memory Read (Bytes/Second)          :   215810752.000
+SP Memory Read (Bytes/Second)              :    27482838.000
+% Shaders Busy                             :          42.299
+% Shaders Stalled                          :          24.942
+% Shader ALU Capacity Utilized             :           7.511
+% Time ALUs Working                        :          10.294
+% Time EFUs Working                        :           0.000
+% Texture Pipes Busy                       :          29.608
+% Wave Context Occupancy                   :          24.460
+% Instruction Cache Miss                   :           1.093
+% Time Shading Vertices                    :          19.224
+Vertices Shaded / Second                   :     6168774.000
+Vertex Instructions / Second               :   598654592.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          34.984
+ALU / Vertex                               :          97.046
+EFU / Vertex                               :           0.000
+% Time Shading Fragments                   :          80.776
+Fragments Shaded / Second                  :  1301826048.000
+Fragment Instructions / Second             : 12216595456.000
+Fragment ALU Instructions / Sec (Full)     :  9160241152.000
+Fragment ALU Instructions / Sec (Half)     :  6112707584.000
+Fragment EFU Instructions / Second         :           0.000
+L1 Texture Cache Miss Per Pixel            :           0.209
+Textures / Fragment                        :           1.025
+Avg Bytes / Fragment                       :           0.216
+ALU / Fragment                             :           7.529
+EFU / Fragment                             :           0.000
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :          57.699
+% Global Buffer Read L2 Hit                :          93.904
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :       32900.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :   450824256.000
+Global Buffer Data Read BW (Bytes/sec)     :    27482838.000
+Global Image Data Read Request BW (Bytes/sec) :  1715651456.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   280818240.000
+Global Image Compressed Data Read BW (Bytes/sec) :           0.000
+% L1 Hit                                   :          72.126
+% Image Read L2 Hit                        :          83.632
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.068
+Bytes Data Write Requested                 :           0.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    12469677.000
+% Prims Trivially Rejected                 :           0.000
+% Prims Clipped                            :           0.000
+Average Vertices / Polygon                 :           0.495
+Reused Vertices / Second                   :    11330065.000
+Average Polygon Area                       :         142.234
+% Nearest Filtered                         :           0.000
+% Linear Filtered                          :          61.785
+% Anisotropic Filtered                     :           0.000
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   396479424.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.152
+Preemptions / second                       :         178.659
+Avg Preemption Delay                       :          43.501
+% Vertex Fetch Stall                       :           2.053
+% Texture Fetch Stall                      :           2.159
+% Texture L1 Miss                          :          34.878
+% Texture L2 Miss                          :           3.617
+% Stalled on System Memory                 :           0.272
+Read Total (Bytes/sec)                     :  2051808128.000
+Write Total (Bytes/sec)                    :  1667538816.000
+Texture Memory Read BW (Bytes/Second)      :  1001992512.000
+Vertex Memory Read (Bytes/Second)          :   430433472.000
+SP Memory Read (Bytes/Second)              :    25878694.000
+% Shaders Busy                             :          55.194
+% Shaders Stalled                          :          22.524
+% Shader ALU Capacity Utilized             :          21.743
+% Time ALUs Working                        :          23.725
+% Time EFUs Working                        :           3.235
+% Texture Pipes Busy                       :          43.188
+% Wave Context Occupancy                   :          57.817
+% Instruction Cache Miss                   :           0.063
+% Time Shading Vertices                    :          13.373
+Vertices Shaded / Second                   :    20421134.000
+Vertex Instructions / Second               :  1061323264.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.078
+ALU / Vertex                               :          51.784
+EFU / Vertex                               :           0.187
+% Time Shading Fragments                   :          85.534
+Fragments Shaded / Second                  :  1134665216.000
+Fragment Instructions / Second             : 31243993088.000
+Fragment ALU Instructions / Sec (Full)     : 19026505728.000
+Fragment ALU Instructions / Sec (Half)     : 23292604416.000
+Fragment EFU Instructions / Second         :   571185024.000
+L1 Texture Cache Miss Per Pixel            :           0.234
+Textures / Fragment                        :           1.045
+Avg Bytes / Fragment                       :           0.165
+ALU / Fragment                             :          23.179
+EFU / Fragment                             :           0.432
+% Time Compute                             :           1.093
+% Kernel Load Cycles                       :          38.905
+% Global Buffer Read L2 Hit                :          86.194
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6844552.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   187452048.000
+Global Buffer Data Read BW (Bytes/sec)     :    25878694.000
+Global Image Data Read Request BW (Bytes/sec) :  5175666176.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   187197632.000
+Global Image Compressed Data Read BW (Bytes/sec) :   814794880.000
+% L1 Hit                                   :          65.122
+% Image Read L2 Hit                        :          96.383
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.060
+Bytes Data Write Requested                 :     1553616.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    38991888.000
+% Prims Trivially Rejected                 :          51.391
+% Prims Clipped                            :           0.103
+Average Vertices / Polygon                 :           0.524
+Reused Vertices / Second                   :    43246808.000
+Average Polygon Area                       :          69.221
+% Nearest Filtered                         :           2.970
+% Linear Filtered                          :          74.542
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   390239552.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.208
+Preemptions / second                       :         178.807
+Avg Preemption Delay                       :          71.134
+% Vertex Fetch Stall                       :           1.937
+% Texture Fetch Stall                      :           2.111
+% Texture L1 Miss                          :          34.969
+% Texture L2 Miss                          :           3.535
+% Stalled on System Memory                 :           0.258
+Read Total (Bytes/sec)                     :  1999902464.000
+Write Total (Bytes/sec)                    :  1634135552.000
+Texture Memory Read BW (Bytes/Second)      :   997489728.000
+Vertex Memory Read (Bytes/Second)          :   409754080.000
+SP Memory Read (Bytes/Second)              :    24763434.000
+% Shaders Busy                             :          55.637
+% Shaders Stalled                          :          22.645
+% Shader ALU Capacity Utilized             :          22.036
+% Time ALUs Working                        :          24.016
+% Time EFUs Working                        :           3.301
+% Texture Pipes Busy                       :          43.976
+% Wave Context Occupancy                   :          58.710
+% Instruction Cache Miss                   :           0.057
+% Time Shading Vertices                    :          12.527
+Vertices Shaded / Second                   :    19076146.000
+Vertex Instructions / Second               :   991746176.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.480
+ALU / Vertex                               :          51.788
+EFU / Vertex                               :           0.201
+% Time Shading Fragments                   :          86.363
+Fragments Shaded / Second                  :  1120463616.000
+Fragment Instructions / Second             : 31124916224.000
+Fragment ALU Instructions / Sec (Full)     : 18933567488.000
+Fragment ALU Instructions / Sec (Half)     : 23239376896.000
+Fragment EFU Instructions / Second         :   571660032.000
+L1 Texture Cache Miss Per Pixel            :           0.234
+Textures / Fragment                        :           1.045
+Avg Bytes / Fragment                       :           0.163
+ALU / Fragment                             :          23.415
+EFU / Fragment                             :           0.438
+% Time Compute                             :           1.110
+% Kernel Load Cycles                       :          38.082
+% Global Buffer Read L2 Hit                :          85.738
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6251572.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   173633472.000
+Global Buffer Data Read BW (Bytes/sec)     :    24763434.000
+Global Image Data Read Request BW (Bytes/sec) :  5156461568.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   182277728.000
+Global Image Compressed Data Read BW (Bytes/sec) :   815211968.000
+% L1 Hit                                   :          65.031
+% Image Read L2 Hit                        :          96.465
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.056
+Bytes Data Write Requested                 :     1553616.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36164780.000
+% Prims Trivially Rejected                 :          50.281
+% Prims Clipped                            :           0.111
+Average Vertices / Polygon                 :           0.527
+Reused Vertices / Second                   :    40309600.000
+Average Polygon Area                       :          72.302
+% Nearest Filtered                         :           3.008
+% Linear Filtered                          :          74.746
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   391323328.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.044
+Preemptions / second                       :         183.767
+Avg Preemption Delay                       :          43.760
+% Vertex Fetch Stall                       :           1.932
+% Texture Fetch Stall                      :           2.163
+% Texture L1 Miss                          :          34.861
+% Texture L2 Miss                          :           3.603
+% Stalled on System Memory                 :           0.257
+Read Total (Bytes/sec)                     :  2022332672.000
+Write Total (Bytes/sec)                    :  1647780480.000
+Texture Memory Read BW (Bytes/Second)      :   997719296.000
+Vertex Memory Read (Bytes/Second)          :   418404160.000
+SP Memory Read (Bytes/Second)              :    26418560.000
+% Shaders Busy                             :          55.187
+% Shaders Stalled                          :          22.342
+% Shader ALU Capacity Utilized             :          22.088
+% Time ALUs Working                        :          24.088
+% Time EFUs Working                        :           3.306
+% Texture Pipes Busy                       :          43.557
+% Wave Context Occupancy                   :          58.250
+% Instruction Cache Miss                   :           0.076
+% Time Shading Vertices                    :          12.344
+Vertices Shaded / Second                   :    19339286.000
+Vertex Instructions / Second               :  1003571840.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.635
+ALU / Vertex                               :          51.687
+EFU / Vertex                               :           0.206
+% Time Shading Fragments                   :          86.575
+Fragments Shaded / Second                  :  1129388672.000
+Fragment Instructions / Second             : 31558821888.000
+Fragment ALU Instructions / Sec (Full)     : 19207360512.000
+Fragment ALU Instructions / Sec (Half)     : 23545524224.000
+Fragment EFU Instructions / Second         :   578699776.000
+L1 Texture Cache Miss Per Pixel            :           0.236
+Textures / Fragment                        :           1.045
+Avg Bytes / Fragment                       :           0.166
+ALU / Fragment                             :          23.526
+EFU / Fragment                             :           0.439
+% Time Compute                             :           1.080
+% Kernel Load Cycles                       :          39.119
+% Global Buffer Read L2 Hit                :          85.472
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6267260.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   181844864.000
+Global Buffer Data Read BW (Bytes/sec)     :    26418560.000
+Global Image Data Read Request BW (Bytes/sec) :  5196975616.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   187252576.000
+Global Image Compressed Data Read BW (Bytes/sec) :   810466688.000
+% L1 Hit                                   :          65.139
+% Image Read L2 Hit                        :          96.397
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.055
+Bytes Data Write Requested                 :     1666800.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36531112.000
+% Prims Trivially Rejected                 :          49.938
+% Prims Clipped                            :           0.113
+Average Vertices / Polygon                 :           0.529
+Reused Vertices / Second                   :    40834684.000
+Average Polygon Area                       :          71.745
+% Nearest Filtered                         :           2.103
+% Linear Filtered                          :          74.939
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   395186624.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.274
+Preemptions / second                       :         184.000
+Avg Preemption Delay                       :          48.619
+% Vertex Fetch Stall                       :           2.003
+% Texture Fetch Stall                      :           2.194
+% Texture L1 Miss                          :          34.927
+% Texture L2 Miss                          :           3.537
+% Stalled on System Memory                 :           0.277
+Read Total (Bytes/sec)                     :  2038467968.000
+Write Total (Bytes/sec)                    :  1663308928.000
+Texture Memory Read BW (Bytes/Second)      :  1009968832.000
+Vertex Memory Read (Bytes/Second)          :   420611616.000
+SP Memory Read (Bytes/Second)              :    25576832.000
+% Shaders Busy                             :          55.801
+% Shaders Stalled                          :          22.616
+% Shader ALU Capacity Utilized             :          21.928
+% Time ALUs Working                        :          23.907
+% Time EFUs Working                        :           3.276
+% Texture Pipes Busy                       :          43.939
+% Wave Context Occupancy                   :          58.532
+% Instruction Cache Miss                   :           0.053
+% Time Shading Vertices                    :          13.063
+Vertices Shaded / Second                   :    19689102.000
+Vertex Instructions / Second               :  1032866368.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.363
+ALU / Vertex                               :          52.264
+EFU / Vertex                               :           0.195
+% Time Shading Fragments                   :          85.837
+Fragments Shaded / Second                  :  1138019584.000
+Fragment Instructions / Second             : 31528777728.000
+Fragment ALU Instructions / Sec (Full)     : 19187679232.000
+Fragment ALU Instructions / Sec (Half)     : 23525720064.000
+Fragment EFU Instructions / Second         :   578237760.000
+L1 Texture Cache Miss Per Pixel            :           0.234
+Textures / Fragment                        :           1.045
+Avg Bytes / Fragment                       :           0.162
+ALU / Fragment                             :          23.335
+EFU / Fragment                             :           0.436
+% Time Compute                             :           1.100
+% Kernel Load Cycles                       :          38.060
+% Global Buffer Read L2 Hit                :          85.820
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6722532.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   180369152.000
+Global Buffer Data Read BW (Bytes/sec)     :    25576832.000
+Global Image Data Read Request BW (Bytes/sec) :  5225559552.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   184807120.000
+Global Image Compressed Data Read BW (Bytes/sec) :   825161728.000
+% L1 Hit                                   :          65.073
+% Image Read L2 Hit                        :          96.463
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.059
+Bytes Data Write Requested                 :     1441200.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    37476260.000
+% Prims Trivially Rejected                 :          50.741
+% Prims Clipped                            :           0.108
+Average Vertices / Polygon                 :           0.525
+Reused Vertices / Second                   :    41666396.000
+Average Polygon Area                       :          71.390
+% Nearest Filtered                         :           2.966
+% Linear Filtered                          :          74.752
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   387555808.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.473
+Preemptions / second                       :         177.341
+Avg Preemption Delay                       :          98.095
+% Vertex Fetch Stall                       :           1.971
+% Texture Fetch Stall                      :           2.267
+% Texture L1 Miss                          :          34.989
+% Texture L2 Miss                          :           3.554
+% Stalled on System Memory                 :           0.289
+Read Total (Bytes/sec)                     :  1974717056.000
+Write Total (Bytes/sec)                    :  1621041920.000
+Texture Memory Read BW (Bytes/Second)      :   990994560.000
+Vertex Memory Read (Bytes/Second)          :   406867424.000
+SP Memory Read (Bytes/Second)              :    24373128.000
+% Shaders Busy                             :          56.244
+% Shaders Stalled                          :          22.658
+% Shader ALU Capacity Utilized             :          22.155
+% Time ALUs Working                        :          24.146
+% Time EFUs Working                        :           3.318
+% Texture Pipes Busy                       :          44.621
+% Wave Context Occupancy                   :          59.118
+% Instruction Cache Miss                   :           0.035
+% Time Shading Vertices                    :          12.574
+Vertices Shaded / Second                   :    18926550.000
+Vertex Instructions / Second               :   984290880.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.497
+ALU / Vertex                               :          51.805
+EFU / Vertex                               :           0.201
+% Time Shading Fragments                   :          86.183
+Fragments Shaded / Second                  :  1111294720.000
+Fragment Instructions / Second             : 30875738112.000
+Fragment ALU Instructions / Sec (Full)     : 18784397312.000
+Fragment ALU Instructions / Sec (Half)     : 23048572928.000
+Fragment EFU Instructions / Second         :   567056064.000
+L1 Texture Cache Miss Per Pixel            :           0.234
+Textures / Fragment                        :           1.046
+Avg Bytes / Fragment                       :           0.164
+ALU / Fragment                             :          23.420
+EFU / Fragment                             :           0.438
+% Time Compute                             :           1.243
+% Kernel Load Cycles                       :          36.915
+% Global Buffer Read L2 Hit                :          85.239
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6279416.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       43760.000
+Global Buffer Data Read Request BW (Bytes/sec) :   165123616.000
+Global Buffer Data Read BW (Bytes/sec)     :    24373128.000
+Global Image Data Read Request BW (Bytes/sec) :  5122541056.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   182061984.000
+Global Image Compressed Data Read BW (Bytes/sec) :   808932608.000
+% L1 Hit                                   :          65.011
+% Image Read L2 Hit                        :          96.446
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.056
+Bytes Data Write Requested                 :     1649504.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    35878260.000
+% Prims Trivially Rejected                 :          50.273
+% Prims Clipped                            :           0.111
+Average Vertices / Polygon                 :           0.528
+Reused Vertices / Second                   :    39987280.000
+Average Polygon Area                       :          72.280
+% Nearest Filtered                         :           3.045
+% Linear Filtered                          :          74.725
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :    96325368.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :           2.084
+Preemptions / second                       :          84.541
+Avg Preemption Delay                       :          98.578
+% Vertex Fetch Stall                       :           0.140
+% Texture Fetch Stall                      :           0.056
+% Texture L1 Miss                          :           4.646
+% Texture L2 Miss                          :          58.718
+% Stalled on System Memory                 :           0.075
+Read Total (Bytes/sec)                     :    41868436.000
+Write Total (Bytes/sec)                    :    29419522.000
+Texture Memory Read BW (Bytes/Second)      :     8199337.000
+Vertex Memory Read (Bytes/Second)          :     8835564.000
+SP Memory Read (Bytes/Second)              :     1274363.250
+% Shaders Busy                             :          84.788
+% Shaders Stalled                          :           3.168
+% Shader ALU Capacity Utilized             :          75.285
+% Time ALUs Working                        :          76.940
+% Time EFUs Working                        :          29.218
+% Texture Pipes Busy                       :          40.503
+% Wave Context Occupancy                   :          87.117
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           0.222
+Vertices Shaded / Second                   :      333231.344
+Vertex Instructions / Second               :    18351874.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          26.515
+ALU / Vertex                               :          54.546
+EFU / Vertex                               :           0.526
+% Time Shading Fragments                   :          99.778
+Fragments Shaded / Second                  :   445221792.000
+Fragment Instructions / Second             : 28464660480.000
+Fragment ALU Instructions / Sec (Full)     : 17783554048.000
+Fragment ALU Instructions / Sec (Half)     : 18761199616.000
+Fragment EFU Instructions / Second         :  1300505344.000
+L1 Texture Cache Miss Per Pixel            :           0.006
+Textures / Fragment                        :           1.039
+Avg Bytes / Fragment                       :           0.005
+ALU / Fragment                             :          57.184
+EFU / Fragment                             :           2.738
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :           8.757
+% Global Buffer Read L2 Hit                :           0.000
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :           0.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :     1194954.250
+Global Buffer Data Read BW (Bytes/sec)     :     1274363.250
+Global Image Data Read Request BW (Bytes/sec) :     3946579.500
+Global Image Uncompressed Data Read BW (Bytes/sec) :     2317342.500
+Global Image Compressed Data Read BW (Bytes/sec) :     5881995.000
+% L1 Hit                                   :          95.354
+% Image Read L2 Hit                        :          41.282
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.000
+Bytes Data Write Requested                 :      119328.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :      334494.500
+% Prims Trivially Rejected                 :           0.354
+% Prims Clipped                            :           0.303
+Average Vertices / Polygon                 :           0.996
+Reused Vertices / Second                   :      708395.125
+Average Polygon Area                       :        1338.831
+% Nearest Filtered                         :           2.259
+% Linear Filtered                          :          97.817
+% Anisotropic Filtered                     :           0.004
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :    83249264.000
+GPU Frequency                              :   441600000.000
+GPU % Bus Busy                             :           2.313
+Preemptions / second                       :          69.667
+Avg Preemption Delay                       :           4.601
+% Vertex Fetch Stall                       :           2.555
+% Texture Fetch Stall                      :           0.000
+% Texture L1 Miss                          :           0.248
+% Texture L2 Miss                          :          55.165
+% Stalled on System Memory                 :           0.018
+Read Total (Bytes/sec)                     :    55324480.000
+Write Total (Bytes/sec)                    :    25196422.000
+Texture Memory Read BW (Bytes/Second)      :     6926906.000
+Vertex Memory Read (Bytes/Second)          :    23792888.000
+SP Memory Read (Bytes/Second)              :      124843.547
+% Shaders Busy                             :          87.695
+% Shaders Stalled                          :           0.892
+% Shader ALU Capacity Utilized             :          76.474
+% Time ALUs Working                        :          79.034
+% Time EFUs Working                        :          29.952
+% Texture Pipes Busy                       :          41.629
+% Wave Context Occupancy                   :          88.272
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           0.593
+Vertices Shaded / Second                   :      946726.938
+Vertex Instructions / Second               :    52590104.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          25.132
+ALU / Vertex                               :          55.271
+EFU / Vertex                               :           0.278
+% Time Shading Fragments                   :          99.407
+Fragments Shaded / Second                  :   430928224.000
+Fragment Instructions / Second             : 29530185728.000
+Fragment ALU Instructions / Sec (Full)     : 18436225024.000
+Fragment ALU Instructions / Sec (Half)     : 19491627008.000
+Fragment EFU Instructions / Second         :  1348147072.000
+L1 Texture Cache Miss Per Pixel            :           0.000
+Textures / Fragment                        :           1.068
+Avg Bytes / Fragment                       :           0.005
+ALU / Fragment                             :          58.364
+EFU / Fragment                             :           2.792
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :           8.103
+% Global Buffer Read L2 Hit                :           0.000
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :           0.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :       60192.426
+Global Buffer Data Read BW (Bytes/sec)     :      124843.547
+Global Image Data Read Request BW (Bytes/sec) :     4159010.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :     2294318.750
+Global Image Compressed Data Read BW (Bytes/sec) :     4632587.500
+% L1 Hit                                   :          99.752
+% Image Read L2 Hit                        :          44.835
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.000
+Bytes Data Write Requested                 :        5376.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :      925229.625
+% Prims Trivially Rejected                 :           0.105
+% Prims Clipped                            :           0.090
+Average Vertices / Polygon                 :           1.023
+Reused Vertices / Second                   :     1827429.250
+Average Polygon Area                       :         467.084
+% Nearest Filtered                         :           0.004
+% Linear Filtered                          :          99.999
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :    90014056.000
+GPU Frequency                              :   441600000.000
+GPU % Bus Busy                             :           2.331
+Preemptions / second                       :          84.624
+Avg Preemption Delay                       :           4.435
+% Vertex Fetch Stall                       :           2.464
+% Texture Fetch Stall                      :           0.051
+% Texture L1 Miss                          :           4.156
+% Texture L2 Miss                          :          55.721
+% Stalled on System Memory                 :           0.018
+Read Total (Bytes/sec)                     :    60283124.000
+Write Total (Bytes/sec)                    :    29484960.000
+Texture Memory Read BW (Bytes/Second)      :     7519541.000
+Vertex Memory Read (Bytes/Second)          :    25393384.000
+SP Memory Read (Bytes/Second)              :      151646.047
+% Shaders Busy                             :          86.906
+% Shaders Stalled                          :           3.000
+% Shader ALU Capacity Utilized             :          74.611
+% Time ALUs Working                        :          77.105
+% Time EFUs Working                        :          29.227
+% Texture Pipes Busy                       :          42.037
+% Wave Context Occupancy                   :          87.512
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           0.590
+Vertices Shaded / Second                   :     1005361.875
+Vertex Instructions / Second               :    55859784.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          25.258
+ALU / Vertex                               :          55.300
+EFU / Vertex                               :           0.262
+% Time Shading Fragments                   :          99.410
+Fragments Shaded / Second                  :   480456864.000
+Fragment Instructions / Second             : 31587960832.000
+Fragment ALU Instructions / Sec (Full)     : 19724005376.000
+Fragment ALU Instructions / Sec (Half)     : 20843169792.000
+Fragment EFU Instructions / Second         :  1442372096.000
+L1 Texture Cache Miss Per Pixel            :           0.006
+Textures / Fragment                        :           1.065
+Avg Bytes / Fragment                       :           0.005
+ALU / Fragment                             :          56.248
+EFU / Fragment                             :           2.691
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :           8.822
+% Global Buffer Read L2 Hit                :           0.000
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :           0.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :       73115.055
+Global Buffer Data Read BW (Bytes/sec)     :      151646.047
+Global Image Data Read Request BW (Bytes/sec) :     4452213.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :     2480814.500
+Global Image Compressed Data Read BW (Bytes/sec) :     5038726.500
+% L1 Hit                                   :          95.844
+% Image Read L2 Hit                        :          44.279
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.000
+Bytes Data Write Requested                 :        6528.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :      982682.688
+% Prims Trivially Rejected                 :           0.121
+% Prims Clipped                            :           0.103
+Average Vertices / Polygon                 :           1.023
+Reused Vertices / Second                   :     1940814.500
+Average Polygon Area                       :         490.280
+% Nearest Filtered                         :           2.044
+% Linear Filtered                          :          97.959
+% Anisotropic Filtered                     :           0.004
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   284708384.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          19.238
+Preemptions / second                       :         144.274
+Avg Preemption Delay                       :          85.469
+% Vertex Fetch Stall                       :           0.669
+% Texture Fetch Stall                      :           2.970
+% Texture L1 Miss                          :          52.430
+% Texture L2 Miss                          :           4.905
+% Stalled on System Memory                 :           0.354
+Read Total (Bytes/sec)                     :  1589863296.000
+Write Total (Bytes/sec)                    :  1341381760.000
+Texture Memory Read BW (Bytes/Second)      :  1358914048.000
+Vertex Memory Read (Bytes/Second)          :    40312612.000
+SP Memory Read (Bytes/Second)              :     1256396.125
+% Shaders Busy                             :          38.494
+% Shaders Stalled                          :          11.408
+% Shader ALU Capacity Utilized             :          42.778
+% Time ALUs Working                        :          44.205
+% Time EFUs Working                        :          10.760
+% Texture Pipes Busy                       :          36.238
+% Wave Context Occupancy                   :          73.943
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           0.906
+Vertices Shaded / Second                   :     1045487.688
+Vertex Instructions / Second               :    94791480.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          38.559
+ALU / Vertex                               :          89.720
+EFU / Vertex                               :           0.947
+% Time Shading Fragments                   :          99.094
+Fragments Shaded / Second                  :   872888640.000
+Fragment Instructions / Second             : 31518941184.000
+Fragment ALU Instructions / Sec (Full)     : 21777747968.000
+Fragment ALU Instructions / Sec (Half)     : 17604227072.000
+Fragment EFU Instructions / Second         :   939078592.000
+L1 Texture Cache Miss Per Pixel            :           0.215
+Textures / Fragment                        :           1.037
+Avg Bytes / Fragment                       :           0.294
+ALU / Fragment                             :          32.933
+EFU / Fragment                             :           1.011
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :          52.397
+% Global Buffer Read L2 Hit                :          56.311
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :       29676.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :     2875765.250
+Global Buffer Data Read BW (Bytes/sec)     :     1256396.125
+Global Image Data Read Request BW (Bytes/sec) :  5230760960.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   256569408.000
+Global Image Compressed Data Read BW (Bytes/sec) :  1102344704.000
+% L1 Hit                                   :          47.570
+% Image Read L2 Hit                        :          95.095
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.001
+Bytes Data Write Requested                 :       11136.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :     1012961.438
+% Prims Trivially Rejected                 :           0.199
+% Prims Clipped                            :           0.171
+Average Vertices / Polygon                 :           1.032
+Reused Vertices / Second                   :     1975476.750
+Average Polygon Area                       :         870.596
+% Nearest Filtered                         :           3.461
+% Linear Filtered                          :          96.542
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   258382976.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          20.874
+Preemptions / second                       :         139.347
+Avg Preemption Delay                       :          79.840
+% Vertex Fetch Stall                       :           0.755
+% Texture Fetch Stall                      :           3.720
+% Texture L1 Miss                          :          52.758
+% Texture L2 Miss                          :           5.140
+% Stalled on System Memory                 :           0.293
+Read Total (Bytes/sec)                     :  1525394048.000
+Write Total (Bytes/sec)                    :  1284904832.000
+Texture Memory Read BW (Bytes/Second)      :  1305459328.000
+Vertex Memory Read (Bytes/Second)          :    38006088.000
+SP Memory Read (Bytes/Second)              :     1201405.875
+% Shaders Busy                             :          37.238
+% Shaders Stalled                          :          11.921
+% Shader ALU Capacity Utilized             :          37.793
+% Time ALUs Working                        :          39.101
+% Time EFUs Working                        :           5.908
+% Texture Pipes Busy                       :          35.431
+% Wave Context Occupancy                   :          71.568
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           0.981
+Vertices Shaded / Second                   :      984951.000
+Vertex Instructions / Second               :    81498528.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          38.587
+ALU / Vertex                               :          81.797
+EFU / Vertex                               :           0.947
+% Time Shading Fragments                   :          99.019
+Fragments Shaded / Second                  :   829585088.000
+Fragment Instructions / Second             : 23417669632.000
+Fragment ALU Instructions / Sec (Full)     : 14729930752.000
+Fragment ALU Instructions / Sec (Half)     : 16498810880.000
+Fragment EFU Instructions / Second         :   438332608.000
+L1 Texture Cache Miss Per Pixel            :           0.216
+Textures / Fragment                        :           1.036
+Avg Bytes / Fragment                       :           0.307
+ALU / Fragment                             :          26.058
+EFU / Fragment                             :           0.497
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :          51.823
+% Global Buffer Read L2 Hit                :          56.736
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :       28476.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :     2776897.500
+Global Buffer Data Read BW (Bytes/sec)     :     1201405.875
+Global Image Data Read Request BW (Bytes/sec) :  4947258368.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   254272528.000
+Global Image Compressed Data Read BW (Bytes/sec) :  1051186880.000
+% L1 Hit                                   :          47.242
+% Image Read L2 Hit                        :          94.860
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.001
+Bytes Data Write Requested                 :       10752.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :      955220.438
+% Prims Trivially Rejected                 :           0.204
+% Prims Clipped                            :           0.175
+Average Vertices / Polygon                 :           1.031
+Reused Vertices / Second                   :     1862983.375
+Average Polygon Area                       :         877.916
+% Nearest Filtered                         :           3.646
+% Linear Filtered                          :          96.358
+% Anisotropic Filtered                     :           0.004
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   117530328.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.427
+Preemptions / second                       :          44.773
+Avg Preemption Delay                       :          76.120
+% Vertex Fetch Stall                       :           2.049
+% Texture Fetch Stall                      :           4.993
+% Texture L1 Miss                          :          40.514
+% Texture L2 Miss                          :           0.007
+% Stalled on System Memory                 :           0.096
+Read Total (Bytes/sec)                     :   458291072.000
+Write Total (Bytes/sec)                    :   396346016.000
+Texture Memory Read BW (Bytes/Second)      :   364327744.000
+Vertex Memory Read (Bytes/Second)          :    40423588.000
+SP Memory Read (Bytes/Second)              :      182115.484
+% Shaders Busy                             :          68.122
+% Shaders Stalled                          :           9.888
+% Shader ALU Capacity Utilized             :          56.993
+% Time ALUs Working                        :          59.060
+% Time EFUs Working                        :          10.127
+% Texture Pipes Busy                       :          66.724
+% Wave Context Occupancy                   :          91.786
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           1.089
+Vertices Shaded / Second                   :      981487.438
+Vertex Instructions / Second               :    85489368.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          41.186
+ALU / Vertex                               :          86.093
+EFU / Vertex                               :           1.009
+% Time Shading Fragments                   :          98.911
+Fragments Shaded / Second                  :   560886080.000
+Fragment Instructions / Second             : 22106124288.000
+Fragment ALU Instructions / Sec (Full)     : 12953849856.000
+Fragment ALU Instructions / Sec (Half)     : 17365743616.000
+Fragment EFU Instructions / Second         :   469403392.000
+L1 Texture Cache Miss Per Pixel            :           0.208
+Textures / Fragment                        :           1.057
+Avg Bytes / Fragment                       :           0.000
+ALU / Fragment                             :          35.122
+EFU / Fragment                             :           0.762
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :          19.759
+% Global Buffer Read L2 Hit                :          38.129
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :        3188.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :      294345.750
+Global Buffer Data Read BW (Bytes/sec)     :      182115.484
+Global Image Data Read Request BW (Bytes/sec) :  3726191360.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :      262029.797
+Global Image Compressed Data Read BW (Bytes/sec) :   364065728.000
+% L1 Hit                                   :          59.486
+% Image Read L2 Hit                        :          99.993
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.000
+Bytes Data Write Requested                 :        3456.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :      983775.812
+% Prims Trivially Rejected                 :           0.064
+% Prims Clipped                            :           0.055
+Average Vertices / Polygon                 :           0.998
+Reused Vertices / Second                   :     1968765.500
+Average Polygon Area                       :         571.564
+% Nearest Filtered                         :           5.281
+% Linear Filtered                          :          94.711
+% Anisotropic Filtered                     :           0.002
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   101632848.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.477
+Preemptions / second                       :          34.825
+Avg Preemption Delay                       :           5.715
+% Vertex Fetch Stall                       :           2.540
+% Texture Fetch Stall                      :           7.212
+% Texture L1 Miss                          :          40.139
+% Texture L2 Miss                          :           0.007
+% Stalled on System Memory                 :           0.076
+Read Total (Bytes/sec)                     :   342695360.000
+Write Total (Bytes/sec)                    :   287338528.000
+Texture Memory Read BW (Bytes/Second)      :   266367264.000
+Vertex Memory Read (Bytes/Second)          :    39162556.000
+SP Memory Read (Bytes/Second)              :       62406.895
+% Shaders Busy                             :          83.633
+% Shaders Stalled                          :          10.947
+% Shader ALU Capacity Utilized             :          59.067
+% Time ALUs Working                        :          61.217
+% Time EFUs Working                        :          10.487
+% Texture Pipes Busy                       :          82.613
+% Wave Context Occupancy                   :          95.292
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           1.128
+Vertices Shaded / Second                   :      950521.062
+Vertex Instructions / Second               :    81394272.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          41.201
+ALU / Vertex                               :          84.609
+EFU / Vertex                               :           1.022
+% Time Shading Fragments                   :          98.872
+Fragments Shaded / Second                  :   514361568.000
+Fragment Instructions / Second             : 20654979072.000
+Fragment ALU Instructions / Sec (Full)     : 11925090304.000
+Fragment ALU Instructions / Sec (Half)     : 16583397376.000
+Fragment EFU Instructions / Second         :   438189728.000
+L1 Texture Cache Miss Per Pixel            :           0.214
+Textures / Fragment                        :           1.059
+Avg Bytes / Fragment                       :           0.000
+ALU / Fragment                             :          35.659
+EFU / Fragment                             :           0.773
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :           8.616
+% Global Buffer Read L2 Hit                :           0.000
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :           0.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :       30089.037
+Global Buffer Data Read BW (Bytes/sec)     :       62406.895
+Global Image Data Read Request BW (Bytes/sec) :  3512575488.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :      229568.219
+Global Image Compressed Data Read BW (Bytes/sec) :   266137696.000
+% L1 Hit                                   :          59.861
+% Image Read L2 Hit                        :          99.993
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.000
+Bytes Data Write Requested                 :        2688.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :      966600.375
+% Prims Trivially Rejected                 :           0.050
+% Prims Clipped                            :           0.043
+Average Vertices / Polygon                 :           0.983
+Reused Vertices / Second                   :     1948484.125
+Average Polygon Area                       :         533.811
+% Nearest Filtered                         :           5.745
+% Linear Filtered                          :          94.256
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   480509408.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          12.745
+Preemptions / second                       :         129.384
+Avg Preemption Delay                       :         128.993
+% Vertex Fetch Stall                       :           2.425
+% Texture Fetch Stall                      :           2.166
+% Texture L1 Miss                          :          28.905
+% Texture L2 Miss                          :          10.229
+% Stalled on System Memory                 :           1.023
+Read Total (Bytes/sec)                     :  2344059392.000
+Write Total (Bytes/sec)                    :  1177279744.000
+Texture Memory Read BW (Bytes/Second)      :   926254464.000
+Vertex Memory Read (Bytes/Second)          :   446403808.000
+SP Memory Read (Bytes/Second)              :    48063700.000
+% Shaders Busy                             :          72.331
+% Shaders Stalled                          :          22.771
+% Shader ALU Capacity Utilized             :          36.742
+% Time ALUs Working                        :          45.689
+% Time EFUs Working                        :           9.037
+% Texture Pipes Busy                       :          55.313
+% Wave Context Occupancy                   :          59.185
+% Instruction Cache Miss                   :           0.004
+% Time Shading Vertices                    :           3.699
+Vertices Shaded / Second                   :    19553956.000
+Vertex Instructions / Second               :  1199752064.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.829
+ALU / Vertex                               :          60.989
+EFU / Vertex                               :           0.367
+% Time Shading Fragments                   :          95.798
+Fragments Shaded / Second                  :  2697657344.000
+Fragment Instructions / Second             : 97621704704.000
+Fragment ALU Instructions / Sec (Full)     : 62830321664.000
+Fragment ALU Instructions / Sec (Half)     : 63561068544.000
+Fragment EFU Instructions / Second         :  3010853120.000
+L1 Texture Cache Miss Per Pixel            :           0.143
+Textures / Fragment                        :           1.147
+Avg Bytes / Fragment                       :           0.225
+ALU / Fragment                             :          33.583
+EFU / Fragment                             :           1.069
+% Time Compute                             :           0.503
+% Kernel Load Cycles                       :          27.029
+% Global Buffer Read L2 Hit                :          81.151
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1115348.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       81900.000
+Global Buffer Data Read Request BW (Bytes/sec) :   254993936.000
+Global Buffer Data Read BW (Bytes/sec)     :    48063700.000
+Global Image Data Read Request BW (Bytes/sec) :  5921560064.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   605722240.000
+Global Image Compressed Data Read BW (Bytes/sec) :   320532224.000
+% L1 Hit                                   :          71.095
+% Image Read L2 Hit                        :          89.771
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :      753120.000
+Avg Load-Store Instructions Per Cycle      :           0.010
+Bytes Data Write Requested                 :     1869344.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36021024.000
+% Prims Trivially Rejected                 :          35.641
+% Prims Clipped                            :           0.215
+Average Vertices / Polygon                 :           0.543
+Reused Vertices / Second                   :    42504116.000
+Average Polygon Area                       :         312.265
+% Nearest Filtered                         :           0.581
+% Linear Filtered                          :          97.883
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   502319296.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.093
+Preemptions / second                       :         144.345
+Avg Preemption Delay                       :          20.760
+% Vertex Fetch Stall                       :           3.087
+% Texture Fetch Stall                      :           2.893
+% Texture L1 Miss                          :          35.371
+% Texture L2 Miss                          :          12.958
+% Stalled on System Memory                 :           1.402
+Read Total (Bytes/sec)                     :  3049849600.000
+Write Total (Bytes/sec)                    :  1984504320.000
+Texture Memory Read BW (Bytes/Second)      :  1209544576.000
+Vertex Memory Read (Bytes/Second)          :   579338880.000
+SP Memory Read (Bytes/Second)              :    58929468.000
+% Shaders Busy                             :          62.361
+% Shaders Stalled                          :          18.384
+% Shader ALU Capacity Utilized             :          42.355
+% Time ALUs Working                        :          50.073
+% Time EFUs Working                        :          14.346
+% Texture Pipes Busy                       :          42.217
+% Wave Context Occupancy                   :          53.569
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           5.855
+Vertices Shaded / Second                   :    26482184.000
+Vertex Instructions / Second               :  1621274240.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.877
+ALU / Vertex                               :          60.853
+EFU / Vertex                               :           0.368
+% Time Shading Fragments                   :          93.308
+Fragments Shaded / Second                  :  1695193344.000
+Fragment Instructions / Second             : 98144215040.000
+Fragment ALU Instructions / Sec (Full)     : 68123582464.000
+Fragment ALU Instructions / Sec (Half)     : 51728916480.000
+Fragment EFU Instructions / Second         :  4156172288.000
+L1 Texture Cache Miss Per Pixel            :           0.222
+Textures / Fragment                        :           1.338
+Avg Bytes / Fragment                       :           0.459
+ALU / Fragment                             :          52.050
+EFU / Fragment                             :           2.302
+% Time Compute                             :           0.837
+% Kernel Load Cycles                       :          35.314
+% Global Buffer Read L2 Hit                :          82.658
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1493588.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      114660.000
+Global Buffer Data Read Request BW (Bytes/sec) :   339807744.000
+Global Buffer Data Read BW (Bytes/sec)     :    58929468.000
+Global Image Data Read Request BW (Bytes/sec) :  6000757760.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   777574976.000
+Global Image Compressed Data Read BW (Bytes/sec) :   431969664.000
+% L1 Hit                                   :          64.629
+% Image Read L2 Hit                        :          87.042
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1034160.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     2456320.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    49580848.000
+% Prims Trivially Rejected                 :          36.322
+% Prims Clipped                            :           0.065
+Average Vertices / Polygon                 :           0.534
+Reused Vertices / Second                   :    58473496.000
+Average Polygon Area                       :         151.232
+% Nearest Filtered                         :           1.109
+% Linear Filtered                          :          95.757
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   505527040.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.793
+Preemptions / second                       :         139.342
+Avg Preemption Delay                       :          31.256
+% Vertex Fetch Stall                       :           3.108
+% Texture Fetch Stall                      :           2.804
+% Texture L1 Miss                          :          35.294
+% Texture L2 Miss                          :          12.923
+% Stalled on System Memory                 :           1.352
+Read Total (Bytes/sec)                     :  3056655360.000
+Write Total (Bytes/sec)                    :  1969726208.000
+Texture Memory Read BW (Bytes/Second)      :  1183390336.000
+Vertex Memory Read (Bytes/Second)          :   604314496.000
+SP Memory Read (Bytes/Second)              :    59910576.000
+% Shaders Busy                             :          62.169
+% Shaders Stalled                          :          18.394
+% Shader ALU Capacity Utilized             :          42.552
+% Time ALUs Working                        :          50.189
+% Time EFUs Working                        :          14.618
+% Texture Pipes Busy                       :          41.689
+% Wave Context Occupancy                   :          53.772
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.049
+Vertices Shaded / Second                   :    28279198.000
+Vertex Instructions / Second               :  1703355776.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.370
+ALU / Vertex                               :          59.895
+EFU / Vertex                               :           0.338
+% Time Shading Fragments                   :          93.118
+Fragments Shaded / Second                  :  1696894080.000
+Fragment Instructions / Second             : 99630407680.000
+Fragment ALU Instructions / Sec (Full)     : 69851480064.000
+Fragment ALU Instructions / Sec (Half)     : 51014729728.000
+Fragment EFU Instructions / Second         :  4271557120.000
+L1 Texture Cache Miss Per Pixel            :           0.219
+Textures / Fragment                        :           1.333
+Avg Bytes / Fragment                       :           0.449
+ALU / Fragment                             :          52.814
+EFU / Fragment                             :           2.366
+% Time Compute                             :           0.832
+% Kernel Load Cycles                       :          35.748
+% Global Buffer Read L2 Hit                :          82.502
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1512924.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      114660.000
+Global Buffer Data Read Request BW (Bytes/sec) :   342385504.000
+Global Buffer Data Read BW (Bytes/sec)     :    59910576.000
+Global Image Data Read Request BW (Bytes/sec) :  5892941824.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   761521472.000
+Global Image Compressed Data Read BW (Bytes/sec) :   421868832.000
+% L1 Hit                                   :          64.706
+% Image Read L2 Hit                        :          87.077
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1035888.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     2455936.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    53978560.000
+% Prims Trivially Rejected                 :          35.713
+% Prims Clipped                            :           0.079
+Average Vertices / Polygon                 :           0.524
+Reused Vertices / Second                   :    63074456.000
+Average Polygon Area                       :         143.870
+% Nearest Filtered                         :           1.112
+% Linear Filtered                          :          96.001
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   510226240.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.112
+Preemptions / second                       :         149.278
+Avg Preemption Delay                       :          30.549
+% Vertex Fetch Stall                       :           3.110
+% Texture Fetch Stall                      :           2.986
+% Texture L1 Miss                          :          35.240
+% Texture L2 Miss                          :          12.815
+% Stalled on System Memory                 :           1.477
+Read Total (Bytes/sec)                     :  3107453184.000
+Write Total (Bytes/sec)                    :  2020813952.000
+Texture Memory Read BW (Bytes/Second)      :  1235088896.000
+Vertex Memory Read (Bytes/Second)          :   590174400.000
+SP Memory Read (Bytes/Second)              :    60750756.000
+% Shaders Busy                             :          62.844
+% Shaders Stalled                          :          18.595
+% Shader ALU Capacity Utilized             :          42.063
+% Time ALUs Working                        :          49.801
+% Time EFUs Working                        :          14.147
+% Texture Pipes Busy                       :          42.609
+% Wave Context Occupancy                   :          53.788
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           5.809
+Vertices Shaded / Second                   :    26962420.000
+Vertex Instructions / Second               :  1654296192.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.889
+ALU / Vertex                               :          60.982
+EFU / Vertex                               :           0.373
+% Time Shading Fragments                   :          93.366
+Fragments Shaded / Second                  :  1764382592.000
+Fragment Instructions / Second             : 100370554880.000
+Fragment ALU Instructions / Sec (Full)     : 69509627904.000
+Fragment ALU Instructions / Sec (Half)     : 53275787264.000
+Fragment EFU Instructions / Second         :  4223031040.000
+L1 Texture Cache Miss Per Pixel            :           0.217
+Textures / Fragment                        :           1.320
+Avg Bytes / Fragment                       :           0.446
+ALU / Fragment                             :          51.183
+EFU / Fragment                             :           2.248
+% Time Compute                             :           0.825
+% Kernel Load Cycles                       :          35.079
+% Global Buffer Read L2 Hit                :          82.682
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1540992.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      114660.000
+Global Buffer Data Read Request BW (Bytes/sec) :   350797056.000
+Global Buffer Data Read BW (Bytes/sec)     :    60750756.000
+Global Image Data Read Request BW (Bytes/sec) :  6140588544.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   786918528.000
+Global Image Compressed Data Read BW (Bytes/sec) :   448170432.000
+% L1 Hit                                   :          64.760
+% Image Read L2 Hit                        :          87.185
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1086408.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     2456704.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    50078088.000
+% Prims Trivially Rejected                 :          36.005
+% Prims Clipped                            :           0.089
+Average Vertices / Polygon                 :           0.538
+Reused Vertices / Second                   :    59238188.000
+Average Polygon Area                       :         153.156
+% Nearest Filtered                         :           1.080
+% Linear Filtered                          :          96.078
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   491954080.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.214
+Preemptions / second                       :         149.277
+Avg Preemption Delay                       :          32.937
+% Vertex Fetch Stall                       :           3.245
+% Texture Fetch Stall                      :           2.896
+% Texture L1 Miss                          :          35.378
+% Texture L2 Miss                          :          12.523
+% Stalled on System Memory                 :           1.448
+Read Total (Bytes/sec)                     :  3041707520.000
+Write Total (Bytes/sec)                    :  1982139392.000
+Texture Memory Read BW (Bytes/Second)      :  1210131712.000
+Vertex Memory Read (Bytes/Second)          :   586969984.000
+SP Memory Read (Bytes/Second)              :    58142632.000
+% Shaders Busy                             :          62.327
+% Shaders Stalled                          :          18.286
+% Shader ALU Capacity Utilized             :          42.547
+% Time ALUs Working                        :          50.177
+% Time EFUs Working                        :          14.384
+% Texture Pipes Busy                       :          42.148
+% Wave Context Occupancy                   :          53.991
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           5.862
+Vertices Shaded / Second                   :    26632064.000
+Vertex Instructions / Second               :  1625648384.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.040
+ALU / Vertex                               :          60.679
+EFU / Vertex                               :           0.362
+% Time Shading Fragments                   :          93.170
+Fragments Shaded / Second                  :  1687861248.000
+Fragment Instructions / Second             : 97870929920.000
+Fragment ALU Instructions / Sec (Full)     : 67942588416.000
+Fragment ALU Instructions / Sec (Half)     : 51586224128.000
+Fragment EFU Instructions / Second         :  4135225344.000
+L1 Texture Cache Miss Per Pixel            :           0.221
+Textures / Fragment                        :           1.332
+Avg Bytes / Fragment                       :           0.451
+ALU / Fragment                             :          52.111
+EFU / Fragment                             :           2.299
+% Time Compute                             :           0.967
+% Kernel Load Cycles                       :          35.853
+% Global Buffer Read L2 Hit                :          82.606
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1469156.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      131040.000
+Global Buffer Data Read Request BW (Bytes/sec) :   334266784.000
+Global Buffer Data Read BW (Bytes/sec)     :    58142632.000
+Global Image Data Read Request BW (Bytes/sec) :  6083982848.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   761902976.000
+Global Image Compressed Data Read BW (Bytes/sec) :   448228736.000
+% L1 Hit                                   :          64.622
+% Image Read L2 Hit                        :          87.477
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1025040.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     2806016.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    49898800.000
+% Prims Trivially Rejected                 :          36.435
+% Prims Clipped                            :           0.086
+Average Vertices / Polygon                 :           0.534
+Reused Vertices / Second                   :    58793876.000
+Average Polygon Area                       :         149.432
+% Nearest Filtered                         :           1.278
+% Linear Filtered                          :          95.731
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   494367424.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.245
+Preemptions / second                       :         139.097
+Avg Preemption Delay                       :          53.863
+% Vertex Fetch Stall                       :           3.255
+% Texture Fetch Stall                      :           2.836
+% Texture L1 Miss                          :          35.888
+% Texture L2 Miss                          :          12.366
+% Stalled on System Memory                 :           1.494
+Read Total (Bytes/sec)                     :  3122999552.000
+Write Total (Bytes/sec)                    :  1990896512.000
+Texture Memory Read BW (Bytes/Second)      :  1248542208.000
+Vertex Memory Read (Bytes/Second)          :   613551744.000
+SP Memory Read (Bytes/Second)              :    59132928.000
+% Shaders Busy                             :          61.536
+% Shaders Stalled                          :          19.049
+% Shader ALU Capacity Utilized             :          41.398
+% Time ALUs Working                        :          48.877
+% Time EFUs Working                        :          13.988
+% Texture Pipes Busy                       :          41.416
+% Wave Context Occupancy                   :          53.725
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.192
+Vertices Shaded / Second                   :    28384984.000
+Vertex Instructions / Second               :  1706563712.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.615
+ALU / Vertex                               :          59.785
+EFU / Vertex                               :           0.337
+% Time Shading Fragments                   :          92.826
+Fragments Shaded / Second                  :  1707537152.000
+Fragment Instructions / Second             : 95667519488.000
+Fragment ALU Instructions / Sec (Full)     : 66569396224.000
+Fragment ALU Instructions / Sec (Half)     : 50115592192.000
+Fragment EFU Instructions / Second         :  4040325376.000
+L1 Texture Cache Miss Per Pixel            :           0.219
+Textures / Fragment                        :           1.318
+Avg Bytes / Fragment                       :           0.445
+ALU / Fragment                             :          50.509
+EFU / Fragment                             :           2.227
+% Time Compute                             :           0.982
+% Kernel Load Cycles                       :          37.114
+% Global Buffer Read L2 Hit                :          82.441
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1489828.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      131040.000
+Global Buffer Data Read Request BW (Bytes/sec) :   336760256.000
+Global Buffer Data Read BW (Bytes/sec)     :    59132928.000
+Global Image Data Read Request BW (Bytes/sec) :  6140327424.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   759320960.000
+Global Image Compressed Data Read BW (Bytes/sec) :   489221248.000
+% L1 Hit                                   :          64.112
+% Image Read L2 Hit                        :          87.634
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1036152.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     2805248.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    54645620.000
+% Prims Trivially Rejected                 :          36.787
+% Prims Clipped                            :           0.076
+Average Vertices / Polygon                 :           0.519
+Reused Vertices / Second                   :    64035624.000
+Average Polygon Area                       :         146.696
+% Nearest Filtered                         :           2.433
+% Linear Filtered                          :          94.659
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   499055680.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.173
+Preemptions / second                       :         139.356
+Avg Preemption Delay                       :          37.464
+% Vertex Fetch Stall                       :           3.129
+% Texture Fetch Stall                      :           2.633
+% Texture L1 Miss                          :          35.710
+% Texture L2 Miss                          :          13.331
+% Stalled on System Memory                 :           1.510
+Read Total (Bytes/sec)                     :  3149576960.000
+Write Total (Bytes/sec)                    :  2008245248.000
+Texture Memory Read BW (Bytes/Second)      :  1275645312.000
+Vertex Memory Read (Bytes/Second)          :   593081856.000
+SP Memory Read (Bytes/Second)              :    61799012.000
+% Shaders Busy                             :          62.726
+% Shaders Stalled                          :          19.473
+% Shader ALU Capacity Utilized             :          41.418
+% Time ALUs Working                        :          49.021
+% Time EFUs Working                        :          14.181
+% Texture Pipes Busy                       :          42.146
+% Wave Context Occupancy                   :          53.421
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           5.958
+Vertices Shaded / Second                   :    27103422.000
+Vertex Instructions / Second               :  1667533184.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.882
+ALU / Vertex                               :          61.149
+EFU / Vertex                               :           0.376
+% Time Shading Fragments                   :          93.189
+Fragments Shaded / Second                  :  1762420864.000
+Fragment Instructions / Second             : 99065561088.000
+Fragment ALU Instructions / Sec (Full)     : 69433892864.000
+Fragment ALU Instructions / Sec (Half)     : 50825457664.000
+Fragment EFU Instructions / Second         :  4218940672.000
+L1 Texture Cache Miss Per Pixel            :           0.216
+Textures / Fragment                        :           1.314
+Avg Bytes / Fragment                       :           0.460
+ALU / Fragment                             :          50.605
+EFU / Fragment                             :           2.251
+% Time Compute                             :           0.854
+% Kernel Load Cycles                       :          36.125
+% Global Buffer Read L2 Hit                :          82.695
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1565176.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      114660.000
+Global Buffer Data Read Request BW (Bytes/sec) :   357113600.000
+Global Buffer Data Read BW (Bytes/sec)     :    61799012.000
+Global Image Data Read Request BW (Bytes/sec) :  6078593536.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   810331072.000
+Global Image Compressed Data Read BW (Bytes/sec) :   465314272.000
+% L1 Hit                                   :          64.290
+% Image Read L2 Hit                        :          86.669
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1137408.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     2455936.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    50426756.000
+% Prims Trivially Rejected                 :          36.308
+% Prims Clipped                            :           0.082
+Average Vertices / Polygon                 :           0.537
+Reused Vertices / Second                   :    59610632.000
+Average Polygon Area                       :         152.720
+% Nearest Filtered                         :           2.446
+% Linear Filtered                          :          94.594
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   516184448.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.274
+Preemptions / second                       :         149.267
+Avg Preemption Delay                       :          65.971
+% Vertex Fetch Stall                       :           3.074
+% Texture Fetch Stall                      :           2.963
+% Texture L1 Miss                          :          35.911
+% Texture L2 Miss                          :          12.663
+% Stalled on System Memory                 :           1.485
+Read Total (Bytes/sec)                     :  3307109632.000
+Write Total (Bytes/sec)                    :  2065784320.000
+Texture Memory Read BW (Bytes/Second)      :  1314045952.000
+Vertex Memory Read (Bytes/Second)          :   679332480.000
+SP Memory Read (Bytes/Second)              :    60559076.000
+% Shaders Busy                             :          61.758
+% Shaders Stalled                          :          19.034
+% Shader ALU Capacity Utilized             :          41.199
+% Time ALUs Working                        :          48.742
+% Time EFUs Working                        :          13.883
+% Texture Pipes Busy                       :          41.779
+% Wave Context Occupancy                   :          53.709
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.163
+Vertices Shaded / Second                   :    29961926.000
+Vertex Instructions / Second               :  1817902976.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.673
+ALU / Vertex                               :          60.327
+EFU / Vertex                               :           0.347
+% Time Shading Fragments                   :          92.234
+Fragments Shaded / Second                  :  1797286656.000
+Fragment Instructions / Second             : 100128636928.000
+Fragment ALU Instructions / Sec (Full)     : 69410324480.000
+Fragment ALU Instructions / Sec (Half)     : 52981985280.000
+Fragment EFU Instructions / Second         :  4227317760.000
+L1 Texture Cache Miss Per Pixel            :           0.220
+Textures / Fragment                        :           1.332
+Avg Bytes / Fragment                       :           0.458
+ALU / Fragment                             :          50.215
+EFU / Fragment                             :           2.213
+% Time Compute                             :           1.603
+% Kernel Load Cycles                       :          37.045
+% Global Buffer Read L2 Hit                :          82.713
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1539376.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   350319552.000
+Global Buffer Data Read BW (Bytes/sec)     :    60559076.000
+Global Image Data Read Request BW (Bytes/sec) :  6497400320.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   822754624.000
+Global Image Compressed Data Read BW (Bytes/sec) :   491291296.000
+% L1 Hit                                   :          64.089
+% Image Read L2 Hit                        :          87.337
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1073640.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     4901888.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57364276.000
+% Prims Trivially Rejected                 :          31.904
+% Prims Clipped                            :           0.078
+Average Vertices / Polygon                 :           0.522
+Reused Vertices / Second                   :    67243088.000
+Average Polygon Area                       :         140.679
+% Nearest Filtered                         :           3.415
+% Linear Filtered                          :          93.716
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   512718080.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.260
+Preemptions / second                       :         139.270
+Avg Preemption Delay                       :          83.897
+% Vertex Fetch Stall                       :           3.802
+% Texture Fetch Stall                      :           3.162
+% Texture L1 Miss                          :          35.808
+% Texture L2 Miss                          :          13.092
+% Stalled on System Memory                 :           1.505
+Read Total (Bytes/sec)                     :  3345414656.000
+Write Total (Bytes/sec)                    :  1992643840.000
+Texture Memory Read BW (Bytes/Second)      :  1262232320.000
+Vertex Memory Read (Bytes/Second)          :   759998976.000
+SP Memory Read (Bytes/Second)              :    61919756.000
+% Shaders Busy                             :          61.065
+% Shaders Stalled                          :          18.707
+% Shader ALU Capacity Utilized             :          41.224
+% Time ALUs Working                        :          48.764
+% Time EFUs Working                        :          14.121
+% Texture Pipes Busy                       :          40.543
+% Wave Context Occupancy                   :          53.281
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.745
+Vertices Shaded / Second                   :    33432740.000
+Vertex Instructions / Second               :  2038803584.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.732
+ALU / Vertex                               :          60.638
+EFU / Vertex                               :           0.344
+% Time Shading Fragments                   :          91.394
+Fragments Shaded / Second                  :  1692819328.000
+Fragment Instructions / Second             : 98447753216.000
+Fragment ALU Instructions / Sec (Full)     : 68632932352.000
+Fragment ALU Instructions / Sec (Half)     : 51172126720.000
+Fragment EFU Instructions / Second         :  4228758272.000
+L1 Texture Cache Miss Per Pixel            :           0.224
+Textures / Fragment                        :           1.352
+Avg Bytes / Fragment                       :           0.483
+ALU / Fragment                             :          52.290
+EFU / Fragment                             :           2.347
+% Time Compute                             :           1.861
+% Kernel Load Cycles                       :          37.804
+% Global Buffer Read L2 Hit                :          82.399
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1554104.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      262080.000
+Global Buffer Data Read Request BW (Bytes/sec) :   351787776.000
+Global Buffer Data Read BW (Bytes/sec)     :    61919756.000
+Global Image Data Read Request BW (Bytes/sec) :  6241728512.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   817192192.000
+Global Image Compressed Data Read BW (Bytes/sec) :   445040160.000
+% L1 Hit                                   :          64.192
+% Image Read L2 Hit                        :          86.908
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1048872.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     5599744.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    64456252.000
+% Prims Trivially Rejected                 :          32.369
+% Prims Clipped                            :           0.069
+Average Vertices / Polygon                 :           0.519
+Reused Vertices / Second                   :    74644752.000
+Average Polygon Area                       :         127.721
+% Nearest Filtered                         :           2.973
+% Linear Filtered                          :          94.183
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   524931392.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.191
+Preemptions / second                       :         149.143
+Avg Preemption Delay                       :          90.867
+% Vertex Fetch Stall                       :           3.452
+% Texture Fetch Stall                      :           2.978
+% Texture L1 Miss                          :          36.013
+% Texture L2 Miss                          :          13.217
+% Stalled on System Memory                 :           1.519
+Read Total (Bytes/sec)                     :  3487048448.000
+Write Total (Bytes/sec)                    :  2091417472.000
+Texture Memory Read BW (Bytes/Second)      :  1357037312.000
+Vertex Memory Read (Bytes/Second)          :   753400064.000
+SP Memory Read (Bytes/Second)              :    67529288.000
+% Shaders Busy                             :          61.341
+% Shaders Stalled                          :          19.329
+% Shader ALU Capacity Utilized             :          40.859
+% Time ALUs Working                        :          48.284
+% Time EFUs Working                        :          14.002
+% Texture Pipes Busy                       :          40.808
+% Wave Context Occupancy                   :          53.360
+% Instruction Cache Miss                   :           0.006
+% Time Shading Vertices                    :           6.586
+Vertices Shaded / Second                   :    33522566.000
+Vertex Instructions / Second               :  2050705536.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.474
+ALU / Vertex                               :          60.822
+EFU / Vertex                               :           0.352
+% Time Shading Fragments                   :          91.874
+Fragments Shaded / Second                  :  1805829760.000
+Fragment Instructions / Second             : 102992969728.000
+Fragment ALU Instructions / Sec (Full)     : 72343642112.000
+Fragment ALU Instructions / Sec (Half)     : 52503314432.000
+Fragment EFU Instructions / Second         :  4397667840.000
+L1 Texture Cache Miss Per Pixel            :           0.221
+Textures / Fragment                        :           1.329
+Avg Bytes / Fragment                       :           0.479
+ALU / Fragment                             :          51.280
+EFU / Fragment                             :           2.287
+% Time Compute                             :           1.540
+% Kernel Load Cycles                       :          38.504
+% Global Buffer Read L2 Hit                :          82.763
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1650708.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   391779776.000
+Global Buffer Data Read BW (Bytes/sec)     :    67529288.000
+Global Image Data Read Request BW (Bytes/sec) :  6544346112.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   864952832.000
+Global Image Compressed Data Read BW (Bytes/sec) :   492084512.000
+% L1 Hit                                   :          63.987
+% Image Read L2 Hit                        :          86.783
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1145760.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     5127488.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    63798092.000
+% Prims Trivially Rejected                 :          31.408
+% Prims Clipped                            :           0.067
+Average Vertices / Polygon                 :           0.525
+Reused Vertices / Second                   :    73881360.000
+Average Polygon Area                       :         136.216
+% Nearest Filtered                         :           3.401
+% Linear Filtered                          :          93.756
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   516854080.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.389
+Preemptions / second                       :         148.973
+Avg Preemption Delay                       :          32.945
+% Vertex Fetch Stall                       :           3.347
+% Texture Fetch Stall                      :           3.132
+% Texture L1 Miss                          :          36.164
+% Texture L2 Miss                          :          12.326
+% Stalled on System Memory                 :           1.405
+Read Total (Bytes/sec)                     :  3345437696.000
+Write Total (Bytes/sec)                    :  2048009472.000
+Texture Memory Read BW (Bytes/Second)      :  1329808256.000
+Vertex Memory Read (Bytes/Second)          :   719651968.000
+SP Memory Read (Bytes/Second)              :    60355920.000
+% Shaders Busy                             :          61.426
+% Shaders Stalled                          :          19.060
+% Shader ALU Capacity Utilized             :          41.006
+% Time ALUs Working                        :          48.418
+% Time EFUs Working                        :          13.878
+% Texture Pipes Busy                       :          41.330
+% Wave Context Occupancy                   :          54.138
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.510
+Vertices Shaded / Second                   :    32034396.000
+Vertex Instructions / Second               :  1927794304.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.465
+ALU / Vertex                               :          59.851
+EFU / Vertex                               :           0.328
+% Time Shading Fragments                   :          91.666
+Fragments Shaded / Second                  :  1751358336.000
+Fragment Instructions / Second             : 98234368000.000
+Fragment ALU Instructions / Sec (Full)     : 68191617024.000
+Fragment ALU Instructions / Sec (Half)     : 51751329792.000
+Fragment EFU Instructions / Second         :  4167083776.000
+L1 Texture Cache Miss Per Pixel            :           0.222
+Textures / Fragment                        :           1.334
+Avg Bytes / Fragment                       :           0.463
+ALU / Fragment                             :          50.486
+EFU / Fragment                             :           2.236
+% Time Compute                             :           1.824
+% Kernel Load Cycles                       :          37.031
+% Global Buffer Read L2 Hit                :          82.601
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1535252.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      262080.000
+Global Buffer Data Read Request BW (Bytes/sec) :   346884608.000
+Global Buffer Data Read BW (Bytes/sec)     :    60355920.000
+Global Image Data Read Request BW (Bytes/sec) :  6578793472.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   810872320.000
+Global Image Compressed Data Read BW (Bytes/sec) :   518935936.000
+% L1 Hit                                   :          63.836
+% Image Read L2 Hit                        :          87.674
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1048152.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     5600512.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    62264080.000
+% Prims Trivially Rejected                 :          32.134
+% Prims Clipped                            :           0.073
+Average Vertices / Polygon                 :           0.514
+Reused Vertices / Second                   :    72320024.000
+Average Polygon Area                       :         141.012
+% Nearest Filtered                         :           3.797
+% Linear Filtered                          :          93.399
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   516487072.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.304
+Preemptions / second                       :         139.278
+Avg Preemption Delay                       :          43.376
+% Vertex Fetch Stall                       :           3.316
+% Texture Fetch Stall                      :           2.979
+% Texture L1 Miss                          :          36.004
+% Texture L2 Miss                          :          13.208
+% Stalled on System Memory                 :           1.511
+Read Total (Bytes/sec)                     :  3331182848.000
+Write Total (Bytes/sec)                    :  2043843200.000
+Texture Memory Read BW (Bytes/Second)      :  1329154432.000
+Vertex Memory Read (Bytes/Second)          :   686161600.000
+SP Memory Read (Bytes/Second)              :    62572748.000
+% Shaders Busy                             :          62.307
+% Shaders Stalled                          :          19.300
+% Shader ALU Capacity Utilized             :          41.205
+% Time ALUs Working                        :          48.736
+% Time EFUs Working                        :          14.173
+% Texture Pipes Busy                       :          41.734
+% Wave Context Occupancy                   :          53.554
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.245
+Vertices Shaded / Second                   :    30391356.000
+Vertex Instructions / Second               :  1856767360.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.578
+ALU / Vertex                               :          60.737
+EFU / Vertex                               :           0.358
+% Time Shading Fragments                   :          92.198
+Fragments Shaded / Second                  :  1782386048.000
+Fragment Instructions / Second             : 101109186560.000
+Fragment ALU Instructions / Sec (Full)     : 70821666816.000
+Fragment ALU Instructions / Sec (Half)     : 51897294848.000
+Fragment EFU Instructions / Second         :  4338869760.000
+L1 Texture Cache Miss Per Pixel            :           0.220
+Textures / Fragment                        :           1.332
+Avg Bytes / Fragment                       :           0.475
+ALU / Fragment                             :          51.067
+EFU / Fragment                             :           2.290
+% Time Compute                             :           1.557
+% Kernel Load Cycles                       :          36.500
+% Global Buffer Read L2 Hit                :          82.793
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1595340.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   363646752.000
+Global Buffer Data Read BW (Bytes/sec)     :    62572748.000
+Global Image Data Read Request BW (Bytes/sec) :  6416035840.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   847453056.000
+Global Image Compressed Data Read BW (Bytes/sec) :   481701344.000
+% L1 Hit                                   :          63.996
+% Image Read L2 Hit                        :          86.792
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1125624.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901120.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57555900.000
+% Prims Trivially Rejected                 :          31.723
+% Prims Clipped                            :           0.075
+Average Vertices / Polygon                 :           0.528
+Reused Vertices / Second                   :    67280576.000
+Average Polygon Area                       :         149.184
+% Nearest Filtered                         :           3.002
+% Linear Filtered                          :          94.107
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   515337120.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.163
+Preemptions / second                       :         139.352
+Avg Preemption Delay                       :          58.292
+% Vertex Fetch Stall                       :           3.215
+% Texture Fetch Stall                      :           2.947
+% Texture L1 Miss                          :          35.919
+% Texture L2 Miss                          :          12.741
+% Stalled on System Memory                 :           1.471
+Read Total (Bytes/sec)                     :  3304032512.000
+Write Total (Bytes/sec)                    :  2060307456.000
+Texture Memory Read BW (Bytes/Second)      :  1312653952.000
+Vertex Memory Read (Bytes/Second)          :   678483520.000
+SP Memory Read (Bytes/Second)              :    61296188.000
+% Shaders Busy                             :          61.973
+% Shaders Stalled                          :          19.326
+% Shader ALU Capacity Utilized             :          40.874
+% Time ALUs Working                        :          48.498
+% Time EFUs Working                        :          13.911
+% Texture Pipes Busy                       :          41.761
+% Wave Context Occupancy                   :          53.673
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.190
+Vertices Shaded / Second                   :    30090270.000
+Vertex Instructions / Second               :  1824734464.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.548
+ALU / Vertex                               :          60.295
+EFU / Vertex                               :           0.347
+% Time Shading Fragments                   :          92.204
+Fragments Shaded / Second                  :  1804173696.000
+Fragment Instructions / Second             : 100148559872.000
+Fragment ALU Instructions / Sec (Full)     : 69437243392.000
+Fragment ALU Instructions / Sec (Half)     : 52869009408.000
+Fragment EFU Instructions / Second         :  4276818688.000
+L1 Texture Cache Miss Per Pixel            :           0.218
+Textures / Fragment                        :           1.331
+Avg Bytes / Fragment                       :           0.454
+ALU / Fragment                             :          50.078
+EFU / Fragment                             :           2.234
+% Time Compute                             :           1.607
+% Kernel Load Cycles                       :          37.052
+% Global Buffer Read L2 Hit                :          82.996
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1581764.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   360488160.000
+Global Buffer Data Read BW (Bytes/sec)     :    61296188.000
+Global Image Data Read Request BW (Bytes/sec) :  6428230656.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   819019904.000
+Global Image Compressed Data Read BW (Bytes/sec) :   493634016.000
+% L1 Hit                                   :          64.081
+% Image Read L2 Hit                        :          87.259
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1108152.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901120.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57454588.000
+% Prims Trivially Rejected                 :          31.793
+% Prims Clipped                            :           0.083
+Average Vertices / Polygon                 :           0.524
+Reused Vertices / Second                   :    67282464.000
+Average Polygon Area                       :         152.515
+% Nearest Filtered                         :           3.404
+% Linear Filtered                          :          93.837
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   517658784.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.283
+Preemptions / second                       :         139.354
+Avg Preemption Delay                       :          82.265
+% Vertex Fetch Stall                       :           3.308
+% Texture Fetch Stall                      :           3.226
+% Texture L1 Miss                          :          36.181
+% Texture L2 Miss                          :          12.481
+% Stalled on System Memory                 :           1.489
+Read Total (Bytes/sec)                     :  3353520640.000
+Write Total (Bytes/sec)                    :  2040939136.000
+Texture Memory Read BW (Bytes/Second)      :  1321990016.000
+Vertex Memory Read (Bytes/Second)          :   726527168.000
+SP Memory Read (Bytes/Second)              :    60555716.000
+% Shaders Busy                             :          61.145
+% Shaders Stalled                          :          19.226
+% Shader ALU Capacity Utilized             :          40.692
+% Time ALUs Working                        :          48.092
+% Time EFUs Working                        :          13.867
+% Texture Pipes Busy                       :          40.915
+% Wave Context Occupancy                   :          53.758
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.507
+Vertices Shaded / Second                   :    32269892.000
+Vertex Instructions / Second               :  1915445888.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.514
+ALU / Vertex                               :          59.048
+EFU / Vertex                               :           0.309
+% Time Shading Fragments                   :          91.624
+Fragments Shaded / Second                  :  1743622016.000
+Fragment Instructions / Second             : 98204499968.000
+Fragment ALU Instructions / Sec (Full)     : 68193153024.000
+Fragment ALU Instructions / Sec (Half)     : 51623260160.000
+Fragment EFU Instructions / Second         :  4199719680.000
+L1 Texture Cache Miss Per Pixel            :           0.223
+Textures / Fragment                        :           1.343
+Avg Bytes / Fragment                       :           0.466
+ALU / Fragment                             :          50.744
+EFU / Fragment                             :           2.267
+% Time Compute                             :           1.868
+% Kernel Load Cycles                       :          37.673
+% Global Buffer Read L2 Hit                :          82.766
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1549908.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      262080.000
+Global Buffer Data Read Request BW (Bytes/sec) :   351364352.000
+Global Buffer Data Read BW (Bytes/sec)     :    60555716.000
+Global Image Data Read Request BW (Bytes/sec) :  6510861312.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   812590208.000
+Global Image Compressed Data Read BW (Bytes/sec) :   509399776.000
+% L1 Hit                                   :          63.819
+% Image Read L2 Hit                        :          87.519
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1064856.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     5599744.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    63465852.000
+% Prims Trivially Rejected                 :          32.476
+% Prims Clipped                            :           0.074
+Average Vertices / Polygon                 :           0.508
+Reused Vertices / Second                   :    73693192.000
+Average Polygon Area                       :         144.829
+% Nearest Filtered                         :           3.799
+% Linear Filtered                          :          93.340
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   516025408.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.148
+Preemptions / second                       :         149.285
+Avg Preemption Delay                       :          95.394
+% Vertex Fetch Stall                       :           3.182
+% Texture Fetch Stall                      :           3.031
+% Texture L1 Miss                          :          36.019
+% Texture L2 Miss                          :          12.549
+% Stalled on System Memory                 :           1.402
+Read Total (Bytes/sec)                     :  3324065024.000
+Write Total (Bytes/sec)                    :  2057117184.000
+Texture Memory Read BW (Bytes/Second)      :  1332932352.000
+Vertex Memory Read (Bytes/Second)          :   682173312.000
+SP Memory Read (Bytes/Second)              :    62209564.000
+% Shaders Busy                             :          62.125
+% Shaders Stalled                          :          19.265
+% Shader ALU Capacity Utilized             :          41.211
+% Time ALUs Working                        :          48.656
+% Time EFUs Working                        :          14.054
+% Texture Pipes Busy                       :          41.757
+% Wave Context Occupancy                   :          53.882
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.182
+Vertices Shaded / Second                   :    30153806.000
+Vertex Instructions / Second               :  1828966528.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.623
+ALU / Vertex                               :          60.307
+EFU / Vertex                               :           0.348
+% Time Shading Fragments                   :          92.212
+Fragments Shaded / Second                  :  1793905408.000
+Fragment Instructions / Second             : 101206245376.000
+Fragment ALU Instructions / Sec (Full)     : 70669328384.000
+Fragment ALU Instructions / Sec (Half)     : 52468719616.000
+Fragment EFU Instructions / Second         :  4302558720.000
+L1 Texture Cache Miss Per Pixel            :           0.220
+Textures / Fragment                        :           1.327
+Avg Bytes / Fragment                       :           0.460
+ALU / Fragment                             :          50.761
+EFU / Fragment                             :           2.254
+% Time Compute                             :           1.607
+% Kernel Load Cycles                       :          36.852
+% Global Buffer Read L2 Hit                :          82.825
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1588000.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   362219200.000
+Global Buffer Data Read BW (Bytes/sec)     :    62209564.000
+Global Image Data Read Request BW (Bytes/sec) :  6576229888.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   825221952.000
+Global Image Compressed Data Read BW (Bytes/sec) :   507710368.000
+% L1 Hit                                   :          63.981
+% Image Read L2 Hit                        :          87.451
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1134792.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901888.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57507304.000
+% Prims Trivially Rejected                 :          31.726
+% Prims Clipped                            :           0.077
+Average Vertices / Polygon                 :           0.524
+Reused Vertices / Second                   :    67303464.000
+Average Polygon Area                       :         152.330
+% Nearest Filtered                         :           3.434
+% Linear Filtered                          :          93.711
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   514695872.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.254
+Preemptions / second                       :         149.256
+Avg Preemption Delay                       :          67.696
+% Vertex Fetch Stall                       :           3.035
+% Texture Fetch Stall                      :           3.029
+% Texture L1 Miss                          :          36.180
+% Texture L2 Miss                          :          12.237
+% Stalled on System Memory                 :           1.361
+Read Total (Bytes/sec)                     :  3324803072.000
+Write Total (Bytes/sec)                    :  2090412672.000
+Texture Memory Read BW (Bytes/Second)      :  1344875392.000
+Vertex Memory Read (Bytes/Second)          :   673369536.000
+SP Memory Read (Bytes/Second)              :    60198928.000
+% Shaders Busy                             :          61.717
+% Shaders Stalled                          :          19.279
+% Shader ALU Capacity Utilized             :          40.954
+% Time ALUs Working                        :          48.404
+% Time EFUs Working                        :          13.776
+% Texture Pipes Busy                       :          41.907
+% Wave Context Occupancy                   :          54.137
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.128
+Vertices Shaded / Second                   :    29707698.000
+Vertex Instructions / Second               :  1791912448.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.667
+ALU / Vertex                               :          59.980
+EFU / Vertex                               :           0.338
+% Time Shading Fragments                   :          92.236
+Fragments Shaded / Second                  :  1813548416.000
+Fragment Instructions / Second             : 99643228160.000
+Fragment ALU Instructions / Sec (Full)     : 69061124096.000
+Fragment ALU Instructions / Sec (Half)     : 52770021376.000
+Fragment EFU Instructions / Second         :  4197095424.000
+L1 Texture Cache Miss Per Pixel            :           0.219
+Textures / Fragment                        :           1.324
+Avg Bytes / Fragment                       :           0.449
+ALU / Fragment                             :          49.562
+EFU / Fragment                             :           2.179
+% Time Compute                             :           1.636
+% Kernel Load Cycles                       :          37.255
+% Global Buffer Read L2 Hit                :          82.729
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1531304.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   348558336.000
+Global Buffer Data Read BW (Bytes/sec)     :    60198928.000
+Global Image Data Read Request BW (Bytes/sec) :  6650527744.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   813822848.000
+Global Image Compressed Data Read BW (Bytes/sec) :   531052544.000
+% L1 Hit                                   :          63.820
+% Image Read L2 Hit                        :          87.763
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1071696.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     4901888.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57118880.000
+% Prims Trivially Rejected                 :          31.922
+% Prims Clipped                            :           0.078
+Average Vertices / Polygon                 :           0.520
+Reused Vertices / Second                   :    66712436.000
+Average Polygon Area                       :         157.670
+% Nearest Filtered                         :           3.403
+% Linear Filtered                          :          93.822
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   508299968.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.119
+Preemptions / second                       :         139.298
+Avg Preemption Delay                       :          86.043
+% Vertex Fetch Stall                       :           3.191
+% Texture Fetch Stall                      :           2.999
+% Texture L1 Miss                          :          36.116
+% Texture L2 Miss                          :          12.622
+% Stalled on System Memory                 :           1.428
+Read Total (Bytes/sec)                     :  3345975808.000
+Write Total (Bytes/sec)                    :  2022514816.000
+Texture Memory Read BW (Bytes/Second)      :  1289983232.000
+Vertex Memory Read (Bytes/Second)          :   731076736.000
+SP Memory Read (Bytes/Second)              :    63639032.000
+% Shaders Busy                             :          60.778
+% Shaders Stalled                          :          19.388
+% Shader ALU Capacity Utilized             :          40.578
+% Time ALUs Working                        :          47.921
+% Time EFUs Working                        :          13.855
+% Texture Pipes Busy                       :          40.446
+% Wave Context Occupancy                   :          53.451
+% Instruction Cache Miss                   :           0.007
+% Time Shading Vertices                    :           6.584
+Vertices Shaded / Second                   :    32443314.000
+Vertex Instructions / Second               :  1919882496.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.534
+ALU / Vertex                               :          58.873
+EFU / Vertex                               :           0.303
+% Time Shading Fragments                   :          91.791
+Fragments Shaded / Second                  :  1726367232.000
+Fragment Instructions / Second             : 97445421056.000
+Fragment ALU Instructions / Sec (Full)     : 67984035840.000
+Fragment ALU Instructions / Sec (Half)     : 50588504064.000
+Fragment EFU Instructions / Second         :  4167134720.000
+L1 Texture Cache Miss Per Pixel            :           0.221
+Textures / Fragment                        :           1.336
+Avg Bytes / Fragment                       :           0.462
+ALU / Fragment                             :          50.846
+EFU / Fragment                             :           2.272
+% Time Compute                             :           1.625
+% Kernel Load Cycles                       :          38.778
+% Global Buffer Read L2 Hit                :          82.903
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1562088.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   372222304.000
+Global Buffer Data Read BW (Bytes/sec)     :    63639032.000
+Global Image Data Read Request BW (Bytes/sec) :  6325145600.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   798353152.000
+Global Image Compressed Data Read BW (Bytes/sec) :   491630112.000
+% L1 Hit                                   :          63.884
+% Image Read L2 Hit                        :          87.378
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1109856.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     5126720.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    63979140.000
+% Prims Trivially Rejected                 :          32.494
+% Prims Clipped                            :           0.070
+Average Vertices / Polygon                 :           0.507
+Reused Vertices / Second                   :    74112704.000
+Average Polygon Area                       :         141.860
+% Nearest Filtered                         :           3.543
+% Linear Filtered                          :          93.641
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   516104096.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.401
+Preemptions / second                       :         149.266
+Avg Preemption Delay                       :         104.703
+% Vertex Fetch Stall                       :           3.120
+% Texture Fetch Stall                      :           3.039
+% Texture L1 Miss                          :          36.211
+% Texture L2 Miss                          :          12.699
+% Stalled on System Memory                 :           1.498
+Read Total (Bytes/sec)                     :  3357785344.000
+Write Total (Bytes/sec)                    :  2061482240.000
+Texture Memory Read BW (Bytes/Second)      :  1373240320.000
+Vertex Memory Read (Bytes/Second)          :   681922560.000
+SP Memory Read (Bytes/Second)              :    62606268.000
+% Shaders Busy                             :          62.159
+% Shaders Stalled                          :          19.655
+% Shader ALU Capacity Utilized             :          40.612
+% Time ALUs Working                        :          48.034
+% Time EFUs Working                        :          13.723
+% Texture Pipes Busy                       :          41.819
+% Wave Context Occupancy                   :          53.883
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.235
+Vertices Shaded / Second                   :    30124626.000
+Vertex Instructions / Second               :  1824248832.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.637
+ALU / Vertex                               :          60.213
+EFU / Vertex                               :           0.344
+% Time Shading Fragments                   :          92.156
+Fragments Shaded / Second                  :  1797379584.000
+Fragment Instructions / Second             : 99515613184.000
+Fragment ALU Instructions / Sec (Full)     : 69058748416.000
+Fragment ALU Instructions / Sec (Half)     : 52498878464.000
+Fragment EFU Instructions / Second         :  4207430144.000
+L1 Texture Cache Miss Per Pixel            :           0.220
+Textures / Fragment                        :           1.324
+Avg Bytes / Fragment                       :           0.469
+ALU / Fragment                             :          49.864
+EFU / Fragment                             :           2.201
+% Time Compute                             :           1.608
+% Kernel Load Cycles                       :          36.730
+% Global Buffer Read L2 Hit                :          82.878
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1602100.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   365646400.000
+Global Buffer Data Read BW (Bytes/sec)     :    62606268.000
+Global Image Data Read Request BW (Bytes/sec) :  6638599680.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   843052096.000
+Global Image Compressed Data Read BW (Bytes/sec) :   530188224.000
+% L1 Hit                                   :          63.789
+% Image Read L2 Hit                        :          87.301
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1158072.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901888.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57529368.000
+% Prims Trivially Rejected                 :          31.653
+% Prims Clipped                            :           0.081
+Average Vertices / Polygon                 :           0.524
+Reused Vertices / Second                   :    67374072.000
+Average Polygon Area                       :         152.850
+% Nearest Filtered                         :           3.872
+% Linear Filtered                          :          93.361
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   514597440.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.174
+Preemptions / second                       :         139.350
+Avg Preemption Delay                       :          80.326
+% Vertex Fetch Stall                       :           3.138
+% Texture Fetch Stall                      :           2.997
+% Texture L1 Miss                          :          36.119
+% Texture L2 Miss                          :          12.725
+% Stalled on System Memory                 :           1.396
+Read Total (Bytes/sec)                     :  3286325504.000
+Write Total (Bytes/sec)                    :  2055336192.000
+Texture Memory Read BW (Bytes/Second)      :  1310405888.000
+Vertex Memory Read (Bytes/Second)          :   668850816.000
+SP Memory Read (Bytes/Second)              :    60140776.000
+% Shaders Busy                             :          61.279
+% Shaders Stalled                          :          19.074
+% Shader ALU Capacity Utilized             :          41.039
+% Time ALUs Working                        :          48.544
+% Time EFUs Working                        :          13.950
+% Texture Pipes Busy                       :          41.271
+% Wave Context Occupancy                   :          53.576
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.189
+Vertices Shaded / Second                   :    29596378.000
+Vertex Instructions / Second               :  1782380416.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.599
+ALU / Vertex                               :          59.888
+EFU / Vertex                               :           0.335
+% Time Shading Fragments                   :          92.175
+Fragments Shaded / Second                  :  1755686016.000
+Fragment Instructions / Second             : 98499633152.000
+Fragment ALU Instructions / Sec (Full)     : 68400156672.000
+Fragment ALU Instructions / Sec (Half)     : 51807735808.000
+Fragment EFU Instructions / Second         :  4195604480.000
+L1 Texture Cache Miss Per Pixel            :           0.223
+Textures / Fragment                        :           1.342
+Avg Bytes / Fragment                       :           0.466
+ALU / Fragment                             :          50.586
+EFU / Fragment                             :           2.251
+% Time Compute                             :           1.636
+% Kernel Load Cycles                       :          37.431
+% Global Buffer Read L2 Hit                :          82.850
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1539036.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   350682432.000
+Global Buffer Data Read BW (Bytes/sec)     :    60140776.000
+Global Image Data Read Request BW (Bytes/sec) :  6425904128.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   817712128.000
+Global Image Compressed Data Read BW (Bytes/sec) :   492693728.000
+% L1 Hit                                   :          63.881
+% Image Read L2 Hit                        :          87.275
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1074096.000
+Avg Load-Store Instructions Per Cycle      :           0.015
+Bytes Data Write Requested                 :     4901120.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57060852.000
+% Prims Trivially Rejected                 :          31.888
+% Prims Clipped                            :           0.082
+Average Vertices / Polygon                 :           0.519
+Reused Vertices / Second                   :    66628436.000
+Average Polygon Area                       :         153.699
+% Nearest Filtered                         :           3.468
+% Linear Filtered                          :          93.511
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   513919840.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.041
+Preemptions / second                       :         139.309
+Avg Preemption Delay                       :          88.143
+% Vertex Fetch Stall                       :           3.150
+% Texture Fetch Stall                      :           2.832
+% Texture L1 Miss                          :          36.017
+% Texture L2 Miss                          :          12.911
+% Stalled on System Memory                 :           1.352
+Read Total (Bytes/sec)                     :  3286189056.000
+Write Total (Bytes/sec)                    :  2037199360.000
+Texture Memory Read BW (Bytes/Second)      :  1273893376.000
+Vertex Memory Read (Bytes/Second)          :   694689856.000
+SP Memory Read (Bytes/Second)              :    61079900.000
+% Shaders Busy                             :          61.441
+% Shaders Stalled                          :          19.111
+% Shader ALU Capacity Utilized             :          41.343
+% Time ALUs Working                        :          48.751
+% Time EFUs Working                        :          14.225
+% Texture Pipes Busy                       :          41.031
+% Wave Context Occupancy                   :          53.422
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.254
+Vertices Shaded / Second                   :    30407448.000
+Vertex Instructions / Second               :  1818668416.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.846
+ALU / Vertex                               :          59.486
+EFU / Vertex                               :           0.324
+% Time Shading Fragments                   :          92.125
+Fragments Shaded / Second                  :  1750856064.000
+Fragment Instructions / Second             : 99685490688.000
+Fragment ALU Instructions / Sec (Full)     : 70272761856.000
+Fragment ALU Instructions / Sec (Half)     : 50291453952.000
+Fragment EFU Instructions / Second         :  4267001088.000
+L1 Texture Cache Miss Per Pixel            :           0.220
+Textures / Fragment                        :           1.331
+Avg Bytes / Fragment                       :           0.462
+ALU / Fragment                             :          51.288
+EFU / Fragment                             :           2.294
+% Time Compute                             :           1.622
+% Kernel Load Cycles                       :          37.395
+% Global Buffer Read L2 Hit                :          82.614
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1545108.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   351307328.000
+Global Buffer Data Read BW (Bytes/sec)     :    61079900.000
+Global Image Data Read Request BW (Bytes/sec) :  6265677312.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   808948352.000
+Global Image Compressed Data Read BW (Bytes/sec) :   464944960.000
+% L1 Hit                                   :          63.983
+% Image Read L2 Hit                        :          87.089
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1096920.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901120.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    58925500.000
+% Prims Trivially Rejected                 :          32.207
+% Prims Clipped                            :           0.070
+Average Vertices / Polygon                 :           0.516
+Reused Vertices / Second                   :    68585160.000
+Average Polygon Area                       :         148.669
+% Nearest Filtered                         :           3.506
+% Linear Filtered                          :          93.619
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   513658944.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.169
+Preemptions / second                       :         149.288
+Avg Preemption Delay                       :         109.943
+% Vertex Fetch Stall                       :           3.075
+% Texture Fetch Stall                      :           2.983
+% Texture L1 Miss                          :          35.925
+% Texture L2 Miss                          :          12.909
+% Stalled on System Memory                 :           1.379
+Read Total (Bytes/sec)                     :  3311766272.000
+Write Total (Bytes/sec)                    :  2046266112.000
+Texture Memory Read BW (Bytes/Second)      :  1326108288.000
+Vertex Memory Read (Bytes/Second)          :   680244608.000
+SP Memory Read (Bytes/Second)              :    62160404.000
+% Shaders Busy                             :          61.932
+% Shaders Stalled                          :          19.238
+% Shader ALU Capacity Utilized             :          40.925
+% Time ALUs Working                        :          48.456
+% Time EFUs Working                        :          13.851
+% Texture Pipes Busy                       :          41.637
+% Wave Context Occupancy                   :          53.653
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.210
+Vertices Shaded / Second                   :    30066020.000
+Vertex Instructions / Second               :  1816572160.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.625
+ALU / Vertex                               :          60.078
+EFU / Vertex                               :           0.341
+% Time Shading Fragments                   :          92.174
+Fragments Shaded / Second                  :  1778132352.000
+Fragment Instructions / Second             : 99468640256.000
+Fragment ALU Instructions / Sec (Full)     : 69058961408.000
+Fragment ALU Instructions / Sec (Half)     : 52396404736.000
+Fragment EFU Instructions / Second         :  4211477504.000
+L1 Texture Cache Miss Per Pixel            :           0.219
+Textures / Fragment                        :           1.328
+Avg Bytes / Fragment                       :           0.469
+ALU / Fragment                             :          50.353
+EFU / Fragment                             :           2.226
+% Time Compute                             :           1.616
+% Kernel Load Cycles                       :          36.956
+% Global Buffer Read L2 Hit                :          82.818
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1586384.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   361769088.000
+Global Buffer Data Read BW (Bytes/sec)     :    62160404.000
+Global Image Data Read Request BW (Bytes/sec) :  6457558528.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   833628032.000
+Global Image Compressed Data Read BW (Bytes/sec) :   492480224.000
+% L1 Hit                                   :          64.075
+% Image Read L2 Hit                        :          87.091
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1137888.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901888.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57504616.000
+% Prims Trivially Rejected                 :          31.651
+% Prims Clipped                            :           0.078
+Average Vertices / Polygon                 :           0.523
+Reused Vertices / Second                   :    67396296.000
+Average Polygon Area                       :         151.734
+% Nearest Filtered                         :           3.462
+% Linear Filtered                          :          93.759
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   513503072.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.262
+Preemptions / second                       :         139.369
+Avg Preemption Delay                       :          73.586
+% Vertex Fetch Stall                       :           3.233
+% Texture Fetch Stall                      :           3.162
+% Texture L1 Miss                          :          36.253
+% Texture L2 Miss                          :          12.664
+% Stalled on System Memory                 :           1.369
+Read Total (Bytes/sec)                     :  3315987200.000
+Write Total (Bytes/sec)                    :  2039763840.000
+Texture Memory Read BW (Bytes/Second)      :  1305074432.000
+Vertex Memory Read (Bytes/Second)          :   705156928.000
+SP Memory Read (Bytes/Second)              :    60010444.000
+% Shaders Busy                             :          60.954
+% Shaders Stalled                          :          19.106
+% Shader ALU Capacity Utilized             :          40.722
+% Time ALUs Working                        :          48.115
+% Time EFUs Working                        :          13.839
+% Texture Pipes Busy                       :          40.896
+% Wave Context Occupancy                   :          53.542
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.378
+Vertices Shaded / Second                   :    30734250.000
+Vertex Instructions / Second               :  1830711424.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.944
+ALU / Vertex                               :          59.249
+EFU / Vertex                               :           0.317
+% Time Shading Fragments                   :          91.728
+Fragments Shaded / Second                  :  1722224640.000
+Fragment Instructions / Second             : 96727924736.000
+Fragment ALU Instructions / Sec (Full)     : 67314532352.000
+Fragment ALU Instructions / Sec (Half)     : 50593845248.000
+Fragment EFU Instructions / Second         :  4116473344.000
+L1 Texture Cache Miss Per Pixel            :           0.223
+Textures / Fragment                        :           1.342
+Avg Bytes / Fragment                       :           0.471
+ALU / Fragment                             :          50.590
+EFU / Fragment                             :           2.249
+% Time Compute                             :           1.894
+% Kernel Load Cycles                       :          37.667
+% Global Buffer Read L2 Hit                :          82.712
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1527052.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      262080.000
+Global Buffer Data Read Request BW (Bytes/sec) :   347112992.000
+Global Buffer Data Read BW (Bytes/sec)     :    60010444.000
+Global Image Data Read Request BW (Bytes/sec) :  6409712640.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   811695872.000
+Global Image Compressed Data Read BW (Bytes/sec) :   493378528.000
+% L1 Hit                                   :          63.747
+% Image Read L2 Hit                        :          87.336
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1072920.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     5599744.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    59832448.000
+% Prims Trivially Rejected                 :          33.269
+% Prims Clipped                            :           0.074
+Average Vertices / Polygon                 :           0.514
+Reused Vertices / Second                   :    69536768.000
+Average Polygon Area                       :         148.661
+% Nearest Filtered                         :           3.850
+% Linear Filtered                          :          93.208
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   512096576.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          18.231
+Preemptions / second                       :         149.346
+Avg Preemption Delay                       :          84.495
+% Vertex Fetch Stall                       :           3.151
+% Texture Fetch Stall                      :           3.060
+% Texture L1 Miss                          :          36.106
+% Texture L2 Miss                          :          12.354
+% Stalled on System Memory                 :           1.339
+Read Total (Bytes/sec)                     :  3281283072.000
+Write Total (Bytes/sec)                    :  2057533056.000
+Texture Memory Read BW (Bytes/Second)      :  1315833344.000
+Vertex Memory Read (Bytes/Second)          :   676426432.000
+SP Memory Read (Bytes/Second)              :    60422572.000
+% Shaders Busy                             :          61.811
+% Shaders Stalled                          :          19.016
+% Shader ALU Capacity Utilized             :          41.321
+% Time ALUs Working                        :          48.733
+% Time EFUs Working                        :          14.001
+% Texture Pipes Busy                       :          41.671
+% Wave Context Occupancy                   :          53.836
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           6.174
+Vertices Shaded / Second                   :    29813886.000
+Vertex Instructions / Second               :  1793069952.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          22.688
+ALU / Vertex                               :          59.807
+EFU / Vertex                               :           0.335
+% Time Shading Fragments                   :          92.200
+Fragments Shaded / Second                  :  1771751424.000
+Fragment Instructions / Second             : 99272237056.000
+Fragment ALU Instructions / Sec (Full)     : 69335040000.000
+Fragment ALU Instructions / Sec (Half)     : 51497652224.000
+Fragment EFU Instructions / Second         :  4188377088.000
+L1 Texture Cache Miss Per Pixel            :           0.221
+Textures / Fragment                        :           1.323
+Avg Bytes / Fragment                       :           0.456
+ALU / Fragment                             :          50.428
+EFU / Fragment                             :           2.221
+% Time Compute                             :           1.625
+% Kernel Load Cycles                       :          36.827
+% Global Buffer Read L2 Hit                :          82.705
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     1535024.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :      229320.000
+Global Buffer Data Read Request BW (Bytes/sec) :   349372320.000
+Global Buffer Data Read BW (Bytes/sec)     :    60422572.000
+Global Image Data Read Request BW (Bytes/sec) :  6532993024.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   807083264.000
+Global Image Compressed Data Read BW (Bytes/sec) :   508750016.000
+% L1 Hit                                   :          63.894
+% Image Read L2 Hit                        :          87.646
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :     1097616.000
+Avg Load-Store Instructions Per Cycle      :           0.016
+Bytes Data Write Requested                 :     4901888.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    57274844.000
+% Prims Trivially Rejected                 :          31.740
+% Prims Clipped                            :           0.072
+Average Vertices / Polygon                 :           0.521
+Reused Vertices / Second                   :    66946552.000
+Average Polygon Area                       :         153.225
+% Nearest Filtered                         :           3.043
+% Linear Filtered                          :          94.095
+% Anisotropic Filtered                     :           0.001
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   253585680.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          31.499
+Preemptions / second                       :         121.145
+Avg Preemption Delay                       :         770.457
+% Vertex Fetch Stall                       :           0.737
+% Texture Fetch Stall                      :           3.731
+% Texture L1 Miss                          :          38.728
+% Texture L2 Miss                          :          12.539
+% Stalled on System Memory                 :          28.485
+Read Total (Bytes/sec)                     :   247055840.000
+Write Total (Bytes/sec)                    :   134008768.000
+Texture Memory Read BW (Bytes/Second)      :    64187320.000
+Vertex Memory Read (Bytes/Second)          :    75405344.000
+SP Memory Read (Bytes/Second)              :    15760192.000
+% Shaders Busy                             :          65.394
+% Shaders Stalled                          :          18.886
+% Shader ALU Capacity Utilized             :          25.609
+% Time ALUs Working                        :          26.622
+% Time EFUs Working                        :           4.639
+% Texture Pipes Busy                       :          35.885
+% Wave Context Occupancy                   :          89.797
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :           1.044
+Vertices Shaded / Second                   :     3245366.250
+Vertex Instructions / Second               :   186062208.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          23.235
+ALU / Vertex                               :          56.256
+EFU / Vertex                               :           1.076
+% Time Shading Fragments                   :          98.956
+Fragments Shaded / Second                  :   595219904.000
+Fragment Instructions / Second             : 25775028224.000
+Fragment ALU Instructions / Sec (Full)     : 15018908672.000
+Fragment ALU Instructions / Sec (Half)     : 20398385152.000
+Fragment EFU Instructions / Second         :   556926784.000
+L1 Texture Cache Miss Per Pixel            :           0.221
+Textures / Fragment                        :           1.075
+Avg Bytes / Fragment                       :           0.049
+ALU / Fragment                             :          38.104
+EFU / Fragment                             :           0.842
+% Time Compute                             :           0.000
+% Kernel Load Cycles                       :          26.951
+% Global Buffer Read L2 Hit                :           1.547
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :       93532.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :           0.000
+Global Buffer Data Read Request BW (Bytes/sec) :    16007831.000
+Global Buffer Data Read BW (Bytes/sec)     :    15760192.000
+Global Image Data Read Request BW (Bytes/sec) :   234100480.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :    29353504.000
+Global Image Compressed Data Read BW (Bytes/sec) :    34833812.000
+% L1 Hit                                   :          61.272
+% Image Read L2 Hit                        :          87.461
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.001
+Bytes Data Write Requested                 :      122400.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :     3292137.750
+% Prims Trivially Rejected                 :          31.480
+% Prims Clipped                            :           1.096
+Average Vertices / Polygon                 :           0.986
+Reused Vertices / Second                   :     6616190.000
+Average Polygon Area                       :         266.267
+% Nearest Filtered                         :           5.025
+% Linear Filtered                          :          94.979
+% Anisotropic Filtered                     :           0.004
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   391313728.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.484
+Preemptions / second                       :         179.288
+Avg Preemption Delay                       :           1.392
+% Vertex Fetch Stall                       :           2.143
+% Texture Fetch Stall                      :           2.182
+% Texture L1 Miss                          :          34.270
+% Texture L2 Miss                          :           3.750
+% Stalled on System Memory                 :           0.212
+Read Total (Bytes/sec)                     :  1882174592.000
+Write Total (Bytes/sec)                    :  1560793728.000
+Texture Memory Read BW (Bytes/Second)      :   904731264.000
+Vertex Memory Read (Bytes/Second)          :   415431136.000
+SP Memory Read (Bytes/Second)              :    17165776.000
+% Shaders Busy                             :          57.739
+% Shaders Stalled                          :          22.034
+% Shader ALU Capacity Utilized             :          22.957
+% Time ALUs Working                        :          25.031
+% Time EFUs Working                        :           3.430
+% Texture Pipes Busy                       :          45.489
+% Wave Context Occupancy                   :          58.108
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :          12.882
+Vertices Shaded / Second                   :    19208756.000
+Vertex Instructions / Second               :  1002700672.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.627
+ALU / Vertex                               :          52.000
+EFU / Vertex                               :           0.200
+% Time Shading Fragments                   :          86.055
+Fragments Shaded / Second                  :  1068620800.000
+Fragment Instructions / Second             : 31280816128.000
+Fragment ALU Instructions / Sec (Full)     : 19038662656.000
+Fragment ALU Instructions / Sec (Half)     : 23337986048.000
+Fragment EFU Instructions / Second         :   573161536.000
+L1 Texture Cache Miss Per Pixel            :           0.241
+Textures / Fragment                        :           1.048
+Avg Bytes / Fragment                       :           0.173
+ALU / Fragment                             :          24.460
+EFU / Fragment                             :           0.457
+% Time Compute                             :           1.062
+% Kernel Load Cycles                       :          33.637
+% Global Buffer Read L2 Hit                :          88.699
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6383196.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   151891904.000
+Global Buffer Data Read BW (Bytes/sec)     :    17165776.000
+Global Image Data Read Request BW (Bytes/sec) :  4931556352.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   184957280.000
+Global Image Compressed Data Read BW (Bytes/sec) :   719774016.000
+% L1 Hit                                   :          65.730
+% Image Read L2 Hit                        :          96.250
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.059
+Bytes Data Write Requested                 :      876816.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36414700.000
+% Prims Trivially Rejected                 :          50.050
+% Prims Clipped                            :           0.109
+Average Vertices / Polygon                 :           0.528
+Reused Vertices / Second                   :    40571092.000
+Average Polygon Area                       :          68.282
+% Nearest Filtered                         :           0.357
+% Linear Filtered                          :          76.003
+% Anisotropic Filtered                     :           0.004
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   368098496.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.448
+Preemptions / second                       :         179.078
+Avg Preemption Delay                       :          16.230
+% Vertex Fetch Stall                       :           2.131
+% Texture Fetch Stall                      :           2.113
+% Texture L1 Miss                          :          34.277
+% Texture L2 Miss                          :           3.743
+% Stalled on System Memory                 :           0.274
+Read Total (Bytes/sec)                     :  1878565760.000
+Write Total (Bytes/sec)                    :  1554559744.000
+Texture Memory Read BW (Bytes/Second)      :   903107712.000
+Vertex Memory Read (Bytes/Second)          :   414634336.000
+SP Memory Read (Bytes/Second)              :    16958442.000
+% Shaders Busy                             :          57.337
+% Shaders Stalled                          :          21.878
+% Shader ALU Capacity Utilized             :          22.997
+% Time ALUs Working                        :          25.067
+% Time EFUs Working                        :           3.440
+% Texture Pipes Busy                       :          45.206
+% Wave Context Occupancy                   :          58.285
+% Instruction Cache Miss                   :           0.000
+% Time Shading Vertices                    :          12.823
+Vertices Shaded / Second                   :    19179794.000
+Vertex Instructions / Second               :  1001063104.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.618
+ALU / Vertex                               :          51.994
+EFU / Vertex                               :           0.200
+% Time Shading Fragments                   :          86.042
+Fragments Shaded / Second                  :  1063615360.000
+Fragment Instructions / Second             : 31207624704.000
+Fragment ALU Instructions / Sec (Full)     : 18989191168.000
+Fragment ALU Instructions / Sec (Half)     : 23291891712.000
+Fragment EFU Instructions / Second         :   572488832.000
+L1 Texture Cache Miss Per Pixel            :           0.241
+Textures / Fragment                        :           1.047
+Avg Bytes / Fragment                       :           0.173
+ALU / Fragment                             :          24.524
+EFU / Fragment                             :           0.458
+% Time Compute                             :           1.135
+% Kernel Load Cycles                       :          36.204
+% Global Buffer Read L2 Hit                :          88.712
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6313672.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   150239232.000
+Global Buffer Data Read BW (Bytes/sec)     :    16958442.000
+Global Image Data Read Request BW (Bytes/sec) :  4919602688.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   184125232.000
+Global Image Compressed Data Read BW (Bytes/sec) :   718982464.000
+% L1 Hit                                   :          65.723
+% Image Read L2 Hit                        :          96.257
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.059
+Bytes Data Write Requested                 :      876816.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36366064.000
+% Prims Trivially Rejected                 :          50.055
+% Prims Clipped                            :           0.109
+Average Vertices / Polygon                 :           0.527
+Reused Vertices / Second                   :    40506704.000
+Average Polygon Area                       :          68.100
+% Nearest Filtered                         :           0.358
+% Linear Filtered                          :          76.031
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   369296704.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.287
+Preemptions / second                       :         179.105
+Avg Preemption Delay                       :          23.112
+% Vertex Fetch Stall                       :           2.103
+% Texture Fetch Stall                      :           1.929
+% Texture L1 Miss                          :          34.282
+% Texture L2 Miss                          :           3.698
+% Stalled on System Memory                 :           0.256
+Read Total (Bytes/sec)                     :  1878553472.000
+Write Total (Bytes/sec)                    :  1554223872.000
+Texture Memory Read BW (Bytes/Second)      :   900741248.000
+Vertex Memory Read (Bytes/Second)          :   411609376.000
+SP Memory Read (Bytes/Second)              :    19129324.000
+% Shaders Busy                             :          56.665
+% Shaders Stalled                          :          21.675
+% Shader ALU Capacity Utilized             :          23.048
+% Time ALUs Working                        :          25.115
+% Time EFUs Working                        :           3.452
+% Texture Pipes Busy                       :          44.613
+% Wave Context Occupancy                   :          58.082
+% Instruction Cache Miss                   :           0.018
+% Time Shading Vertices                    :          12.706
+Vertices Shaded / Second                   :    19111850.000
+Vertex Instructions / Second               :   993926592.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.537
+ALU / Vertex                               :          51.805
+EFU / Vertex                               :           0.201
+% Time Shading Fragments                   :          86.170
+Fragments Shaded / Second                  :  1059415872.000
+Fragment Instructions / Second             : 31170914304.000
+Fragment ALU Instructions / Sec (Full)     : 18961031168.000
+Fragment ALU Instructions / Sec (Half)     : 23274625024.000
+Fragment EFU Instructions / Second         :   572572544.000
+L1 Texture Cache Miss Per Pixel            :           0.241
+Textures / Fragment                        :           1.048
+Avg Bytes / Fragment                       :           0.171
+ALU / Fragment                             :          24.601
+EFU / Fragment                             :           0.460
+% Time Compute                             :           1.124
+% Kernel Load Cycles                       :          36.956
+% Global Buffer Read L2 Hit                :          87.697
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6239272.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   155483936.000
+Global Buffer Data Read BW (Bytes/sec)     :    19129324.000
+Global Image Data Read Request BW (Bytes/sec) :  4911226880.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   181621904.000
+Global Image Compressed Data Read BW (Bytes/sec) :   719119360.000
+% L1 Hit                                   :          65.718
+% Image Read L2 Hit                        :          96.302
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.058
+Bytes Data Write Requested                 :     1102416.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36222008.000
+% Prims Trivially Rejected                 :          50.265
+% Prims Clipped                            :           0.110
+Average Vertices / Polygon                 :           0.528
+Reused Vertices / Second                   :    40367552.000
+Average Polygon Area                       :          68.247
+% Nearest Filtered                         :           0.359
+% Linear Filtered                          :          76.147
+% Anisotropic Filtered                     :           0.003
+
+Warning: didn't receive all requested metrics
+
+Clocks / Second                            :   379227776.000
+GPU Frequency                              :   525000000.000
+GPU % Bus Busy                             :          17.591
+Preemptions / second                       :         179.341
+Avg Preemption Delay                       :          35.877
+% Vertex Fetch Stall                       :           2.030
+% Texture Fetch Stall                      :           1.926
+% Texture L1 Miss                          :          34.992
+% Texture L2 Miss                          :           3.476
+% Stalled on System Memory                 :           0.280
+Read Total (Bytes/sec)                     :  1974686208.000
+Write Total (Bytes/sec)                    :  1607734528.000
+Texture Memory Read BW (Bytes/Second)      :   995700544.000
+Vertex Memory Read (Bytes/Second)          :   411030048.000
+SP Memory Read (Bytes/Second)              :    21412532.000
+% Shaders Busy                             :          56.472
+% Shaders Stalled                          :          22.634
+% Shader ALU Capacity Utilized             :          22.427
+% Time ALUs Working                        :          24.413
+% Time EFUs Working                        :           3.379
+% Texture Pipes Busy                       :          44.641
+% Wave Context Occupancy                   :          59.308
+% Instruction Cache Miss                   :           0.028
+% Time Shading Vertices                    :          12.795
+Vertices Shaded / Second                   :    19100466.000
+Vertex Instructions / Second               :   994373632.000
+Textures / Vertex                          :           0.000
+Avg Bytes / Vertex                         :          21.519
+ALU / Vertex                               :          51.859
+EFU / Vertex                               :           0.201
+% Time Shading Fragments                   :          86.063
+Fragments Shaded / Second                  :  1103047680.000
+Fragment Instructions / Second             : 31033624576.000
+Fragment ALU Instructions / Sec (Full)     : 18851078144.000
+Fragment ALU Instructions / Sec (Half)     : 23218427904.000
+Fragment EFU Instructions / Second         :   573332352.000
+L1 Texture Cache Miss Per Pixel            :           0.234
+Textures / Fragment                        :           1.046
+Avg Bytes / Fragment                       :           0.162
+ALU / Fragment                             :          23.692
+EFU / Fragment                             :           0.446
+% Time Compute                             :           1.142
+% Kernel Load Cycles                       :          37.114
+% Global Buffer Read L2 Hit                :          86.650
+% Global Buffer Write L2 Hit               :           0.000
+Global Memory Load Instructions            :     6247276.000
+Global Memory Atomic Instructions          :           0.000
+Global Memory Store Instructions           :       39384.000
+Global Buffer Data Read Request BW (Bytes/sec) :   160394400.000
+Global Buffer Data Read BW (Bytes/sec)     :    21412532.000
+Global Image Data Read Request BW (Bytes/sec) :  5133190656.000
+Global Image Uncompressed Data Read BW (Bytes/sec) :   178452848.000
+Global Image Compressed Data Read BW (Bytes/sec) :   817247680.000
+% L1 Hit                                   :          65.008
+% Image Read L2 Hit                        :          96.524
+Local Memory Atomic Instructions           :           0.000
+Local Memory Load Instructions             :           0.000
+Local Memory Store Instructions            :           0.000
+Avg Load-Store Instructions Per Cycle      :           0.057
+Bytes Data Write Requested                 :     1328016.000
+Bytes Data Actually Written                :           0.000
+Pre-clipped Polygons/Second                :    36197332.000
+% Prims Trivially Rejected                 :          50.357
+% Prims Clipped                            :           0.110
+Average Vertices / Polygon                 :           0.528
+Reused Vertices / Second                   :    40363548.000
+Average Polygon Area                       :          71.220
+% Nearest Filtered                         :           3.063
+% Linear Filtered                          :          75.323
+% Anisotropic Filtered                     :           0.003
+
